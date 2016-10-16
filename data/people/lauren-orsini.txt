@@ -1,5 +1,5 @@
 name:      Lauren Orsini
-twitter:   aureninspace
+twitter:   laureninspace
 github:    laurenorsini
-home:      http://readwrite.com/author/lauren-orsini/
+home:      http://readwrite.com/
 country:   Virginia, USA
