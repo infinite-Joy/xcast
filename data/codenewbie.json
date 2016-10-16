@@ -248,6 +248,136 @@
     "date": "2015-01-19"
   },
   {
+    "ep" : "20",
+    "guests": {
+      "Joseph-McLarty" : {}
+    },
+    "hosts" : {
+        "saron-yitbarek" : {}
+    },
+    "keywords": [],
+    "permalink": "http://www.codenewbie.org/podcast/accessibility",
+    "title" : "accessibility",
+    "date": "2015-01-26"
+  }, 
+  {
+    "ep" : "21",
+    "guests": {
+      "Rebecca-Garcia" : {}
+    },
+    "hosts" : {
+        "saron-yitbarek" : {}
+    },
+    "keywords": [],
+    "permalink": "http://www.codenewbie.org/podcast/teaching-kids-to-code",
+    "title" : "Teaching Kids To Code",
+    "date": "2015-02-02"
+  },
+  {
+    "ep" : "22",
+    "guests": {
+      "Catt-Small" : {}
+    },
+    "hosts" : {
+        "saron-yitbarek" : {}
+    },
+    "keywords": [],
+    "permalink": "www.codenewbie.org/podcast/intro-to-ux",
+    "title" : "Intro to UX",
+    "date": "2015-02-09"
+  },
+  {
+    "ep" : "23",
+    "guests": {
+      "Scott-Hanselman" : {}
+    },
+    "hosts" : {
+        "saron-yitbarek" : {}
+    },
+    "keywords": [],
+    "permalink": "http://www.codenewbie.org/podcast/ask-codenewbie",
+    "title" : "Ask CodeNewbie",
+    "date": "2015-02-16"
+  },
+  {
+    "ep" : "24",
+    "guests": {
+      "Sarah-Frisk" : {}
+    },
+    "hosts" : {
+        "saron-yitbarek" : {}
+    },
+    "keywords": [],
+    "permalink": "http://www.codenewbie.org/podcast/monsters-and-code",
+    "title" : "Monsters And Code",
+    "date": "2015-02-23"
+  },
+  {
+    "ep" : "25",
+    "guests": {
+      "Sara-Chipps" : {}
+    },
+    "hosts" : {
+        "saron-yitbarek" : {}
+    },
+    "keywords": [],
+    "permalink": "http://www.codenewbie.org/podcast/from-software-to-hardware",
+    "title" : "From Software To Hardware",
+    "date": "2015-03-02"
+  },  
+  {
+    "ep" : "26",
+    "guests": {
+      "Julia-Grace" : {}
+    },
+    "hosts" : {
+        "saron-yitbarek" : {}
+    },
+    "keywords": [],
+    "permalink": "http://www.codenewbie.org/podcast/the-hardware-marketplace",
+    "title" : "The Hardware Marketplace",
+    "date": "2015-03-09"
+  },  
+  {
+    "ep" : "27",
+    "guests": {
+      "Matt-Richardson" : {}
+    },
+    "hosts" : {
+        "saron-yitbarek" : {}
+    },
+    "keywords": [],
+    "permalink": "http://www.codenewbie.org/podcast/intro-to-raspberry-pi",
+    "title" : "Intro to Raspberry Pi",
+    "date": "2015-03-16"
+  },  
+  {
+    "ep" : "28",
+    "guests": {
+      "Kate-Donahue" : {}
+    },
+    "hosts" : {
+        "saron-yitbarek" : {}
+    },
+    "keywords": [],
+    "permalink": "http://www.codenewbie.org/podcast/coding-printers",
+    "title" : "Coding Printers",
+    "date": "2015-03-23"
+  },  
+  {
+    "ep" : "29",
+    "guests": {
+      "Gokul-Krishnan" : {}
+    },
+    "hosts" : {
+        "saron-yitbarek" : {}
+    },
+    "keywords": [],
+    "permalink": "http://www.codenewbie.org/podcast/a-children-s-makerspace",
+    "title" : "A Children's Makerspace",
+    "date": "2015-03-30"
+  },
+  {
     "ep" : "57",
     "guests": {
       "adam-stacoviak" : {},
