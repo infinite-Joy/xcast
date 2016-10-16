@@ -235,6 +235,19 @@
     "date": "2015-01-12"
   },
   {
+    "ep" : "19",
+    "guests": {
+      "zed-a-shaw" : {}
+    },
+    "hosts" : {
+        "saron-yitbarek" : {}
+    },
+    "keywords": [],
+    "permalink": "http://www.codenewbie.org/podcast/the-hard-way",
+    "title" : "The Hard Way",
+    "date": "2015-01-19"
+  },
+  {
     "ep" : "57",
     "guests": {
       "adam-stacoviak" : {},
