@@ -1,4 +1,104 @@
-[
+[ 
+  {
+    "ep" : "399",
+    "guests": {
+        " " : {}
+    },
+    "hosts" : {
+        "aaron-newcomb" : {},
+        "guillermo-amaral" : {},
+		"jonathan-bennett" : {}
+    },
+    "keywords": ["Hardware", "Hardware Project"],
+    "permalink": "https://twit.tv/shows/floss-weekly/episodes/399",
+    "title" : "Open Hardware Project",
+    "date": "2016-08-16"
+   },
+  {
+    "ep" : "400",
+    "guests": {
+        "frank-karlitschek" : {}
+    },
+    "hosts" : {
+        "aaron-newcomb" : {},
+        "simon-phipps" : {}
+    },
+    "keywords": ["Nextcloud", "File Sync & Share"],
+    "permalink": "https://twit.tv/shows/floss-weekly/episodes/400",
+    "title" : "Nextcloud",
+    "date": "2016-08-23"
+  },
+  {
+    "ep" : "401",
+    "guests": {
+        "will-hayes" : {}
+    },
+    "hosts" : {
+        "aaron-newcomb" : {},
+        "jonathan-bennett" : {}
+    },
+    "keywords": ["Lucidworks", "Open Source Code"],
+    "permalink": "https://twit.tv/shows/floss-weekly/episodes/401",
+    "title" : "Lucidworks",
+    "date": "2016-08-30"
+  },
+  {
+    "ep" : "402",
+    "guests": {
+        " " : {}
+    },
+    "hosts" : {
+        "aaron-newcomb" : {},
+        "jonathan-bennett" : {}
+    },
+    "keywords": ["Midokura", "Network Virtualization"],
+    "permalink": "https://twit.tv/shows/floss-weekly/episodes/402",
+    "title" : "Midokura",
+    "date": "2016-09-06"
+  },
+  {
+    "ep" : "403",
+    "guests": {
+        "josh-berkus" : {}
+        "colin-walters" : {}
+    },
+    "hosts" : {
+        "randal-schwartz" : {},
+        "aaron-newcomb" : {}
+    },
+    "keywords": ["Atomic umbrella", "LDK", "Linux", "Docker", "Kubernetes"],
+    "permalink": "https://twit.tv/shows/floss-weekly/episodes/403",
+    "title" : "Atomic Host",
+    "date": "2016-09-13"
+  },
+  {
+    "ep" : "404",
+    "guests": {
+        "jared-smith" : {}
+    },
+    "hosts" : {
+        "randal-schwartz" : {},
+        "jonathan-bennett" : {}
+    },
+    "keywords": ["Capital", "Open Source"],
+    "permalink": "https://twit.tv/shows/floss-weekly/episodes/404",
+    "title" : "Capital One Open Source",
+    "date": "2016-09-20"
+  },
+  {
+    "ep" : "405",
+    "guests": {
+        "eric-schultz" : {}
+    },
+    "hosts" : {
+        "randal-schwartz" : {},
+        "jonathan-bennett" : {}
+    },
+    "keywords": ["PRPL", "Foundation"],
+    "permalink": "https://twit.tv/shows/floss-weekly/episodes/405",
+    "title" : "THE PRPL FOUNDATION",
+    "date": "2016-09-27"
+  },
   {
     "ep" : "406",
     "guests": {
@@ -22,7 +122,7 @@
         "randal-schwartz" : {},
         "aaron-newcomb" : {}
     },
-    "keywords": ["Linux"],
+    "keywords": ["Linux", "BeLUG", "Linux Presentation Day"],
     "permalink": "https://twit.tv/shows/floss-weekly/episodes/407",
     "title" : "Linux Presentation Day",
     "date": "2016-10-11"
