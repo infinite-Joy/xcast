@@ -12,5 +12,19 @@
     "permalink": "https://twit.tv/shows/floss-weekly/episodes/406",
     "title" : "Frida",
     "date": "2016-10-05"
-  }
+  },
+  {
+    "ep" : "407",
+    "guests": {
+        "christoph-zimmermann" : {}
+    },
+    "hosts" : {
+        "randal-schwartz" : {},
+        "aaron-newcomb" : {}
+    },
+    "keywords": ["Linux"],
+    "permalink": "https://twit.tv/shows/floss-weekly/episodes/407",
+    "title" : "Linux Presentation Day",
+    "date": "2016-10-11"
+  },
 ]
