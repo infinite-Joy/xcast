@@ -1,9 +1,7 @@
 [ 
    {
     "ep" : "394",
-    "guests": {
-        " " : {}
-    },
+
     "hosts" : {
         "randal-schwartz" : {},
         "jonathan-bennett" : {}
@@ -12,7 +10,7 @@
     "permalink": "https://twit.tv/shows/floss-weekly/episodes/394",
     "title" : "Lisk",
     "date": "2016-06-28"
-   }
+   },
    {
     "ep" : "395",
     "guests": {
