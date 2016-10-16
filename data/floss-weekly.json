@@ -1,9 +1,6 @@
 [ 
   {
     "ep" : "399",
-    "guests": {
-        " " : {}
-    },
     "hosts" : {
         "aaron-newcomb" : {},
         "guillermo-amaral" : {},
@@ -44,9 +41,6 @@
   },
   {
     "ep" : "402",
-    "guests": {
-        " " : {}
-    },
     "hosts" : {
         "aaron-newcomb" : {},
         "jonathan-bennett" : {}
@@ -59,7 +53,7 @@
   {
     "ep" : "403",
     "guests": {
-        "josh-berkus" : {}
+        "josh-berkus" : {},
         "colin-walters" : {}
     },
     "hosts" : {
