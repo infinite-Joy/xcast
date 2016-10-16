@@ -1,0 +1,4 @@
+name: Randi Harper
+github: freebsdgirl
+twitter: freebsdgirl
+home: https://blog.randi.io/
