@@ -126,3 +126,30 @@ Other sources we might add
 * http://www.meta-cast.com/
 * http://www.angryweasel.com/ABTesting/
 
+
+Process with command line Git client
+----------------------------
+* In the GitHub interface visit the project https://github.com/szabgab/xcast and click on the "Fork" button (top righ).
+It will create a copy in your own user. IF you are called ```foobar``` it will be called https://github.com/foobar/xcast
+
+* On your command line (Linux terminal or Windows Cmd) type in
+
+```git clone git@github.com:foobar/xcast.git```
+
+It will clone (copy) the whole repository from your GitHub homedirectory.
+
+```cd xcast```
+
+```git remote add upstream https://github.com/szabgab/xcast.git```
+
+Now you can edit the files in the ```xcast/data``` directory and add more files you need.
+
+If you'd like to check if the files work well together type in
+
+```python xcast.py --html``` on windows or ```python3 xcast.py --html``` on Linux.
+
+
+
+
+
+
