@@ -112,7 +112,7 @@
         "randal-schwartz" : {},
         "aaron-newcomb" : {}
     },
-    "keywords": ["Kubernetes", "Orchestration System",],
+    "keywords": ["Kubernetes", "Orchestration System"],
     "permalink": "https://twit.tv/shows/floss-weekly/episodes/351",
     "title" : "Kubernetes",
     "date": "2015-08-26"
@@ -155,7 +155,7 @@
         "randal-schwartz" : {},
 		"guillermo-amaral" : {}
     },
-    "keywords": ["Icinga", "Source",],
+    "keywords": ["Icinga", "Source"],
     "permalink": "https://twit.tv/shows/floss-weekly/episodes/354",
     "title" : "Icinga",
     "date": "2015-09-16"
