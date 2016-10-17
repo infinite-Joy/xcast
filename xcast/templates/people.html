@@ -1,5 +1,4 @@
 {% include 'incl/header.html' %}
-    <h1>People</h1>
     <ul id="people">
     {% for p in people_ids %}
         <li><a href="/p/{{ p }}">{{ people[p]['info']['name'] }}</a> ({{ people[p]['episodes'] | length  }} + {{ people[p]['hosting'] | length }})</li>

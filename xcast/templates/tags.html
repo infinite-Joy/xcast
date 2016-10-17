@@ -1,6 +1,4 @@
 {% include 'incl/header.html' %}
-
-    <h2>Tags</h2>
     <ul id="tags">
     {% for t in tags %}
         <li><a href="/t/{{ t }}">{{ tags[t]['tag'] }}</a> ({{ tags[t]['episodes'] | length  }})</li>

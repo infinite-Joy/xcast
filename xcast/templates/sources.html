@@ -1,6 +1,5 @@
 {% include 'incl/header.html' %}
 
-    <h2>Sources</h2>
     <ul id="sources">
     {% for s in sources %}
         <li><a href="/s/{{ s.name }}">{{ s.title }}</a> ({{ s.episodes | length }})</li>

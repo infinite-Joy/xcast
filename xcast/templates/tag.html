@@ -4,6 +4,10 @@
   {% else %}
      <h2>{{tag.tag}}</h2>
   {% endif %}
+  {% if 'description' in tag and tag['description'] %}
+     <div>{{tag['description']}}</div>
+  {% endif %}
+
   <ul>
     {% for e in tag['episodes'] %}
         <li>
