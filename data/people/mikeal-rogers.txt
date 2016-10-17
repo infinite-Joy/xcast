@@ -1,1 +1,5 @@
-name: Mikeal Rogers
+name:      Mikeal Rogers
+twitter:   mikeal
+github:    mikeal
+home:      http://mikealrogers.com/
+country:   San Francisco, CA, USA
