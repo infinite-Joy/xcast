@@ -58,8 +58,12 @@ def generate_pages(sources, people, tags):
     if not os.path.exists('html/p/'):
         os.mkdir('html/p/')
     for p in people.keys():
-         with open('html/p/' + p, 'w') as fh:
-            fh.write(person_template.render(id = p, person = people[p]))
+        with open('html/p/' + p, 'w') as fh:
+            fh.write(person_template.render(
+                id     = p,
+                person = people[p],
+                title  = 'Podcasts of and interviewes with {}'.format(people[p]['info']['name'])
+            ))
 
     source_template = env.get_template('source.html')
     if not os.path.exists('html/s/'):
@@ -67,7 +71,10 @@ def generate_pages(sources, people, tags):
     for s in sources:
     #    #print(s)
         with open('html/s/' + s['name'], 'w') as fh:
-            fh.write(source_template.render(source = s))
+            fh.write(source_template.render(
+                source = s,
+                title  = s['title']
+            ))
 
     tag_template = env.get_template('tag.html')
     if not os.path.exists('html/t/'):
@@ -75,7 +82,11 @@ def generate_pages(sources, people, tags):
     for t in tags:
         with open('html/t/' + t, 'w') as fh:
             #tags[t]['path'] = t
-            fh.write(tag_template.render(tag = tags[t]))
+            fh.write(tag_template.render(
+                tag   = tags[t],
+                title = tags[t]['tag']
+                #title = 'Podcasts and discussions about {}'.format(tags[t]['tag'])
+            ))
 
 
     stats = {
@@ -87,6 +98,7 @@ def generate_pages(sources, people, tags):
     main_template = env.get_template('index.html')
     with open('html/index.html', 'w') as fh:
         fh.write(main_template.render(
+            title   = 'xCast - Tech related podcast and presentations',
             stats   = stats,
             tags    = tags,
             sources = sources,
@@ -95,6 +107,7 @@ def generate_pages(sources, people, tags):
 
     with open('html/people', 'w') as fh:
         fh.write(env.get_template('people.html').render(
+            title   = 'xCast - list of people',
             stats   = stats,
             tags    = tags,
             sources = sources,
@@ -102,6 +115,7 @@ def generate_pages(sources, people, tags):
             people_ids = sorted(people.keys()) ))
     with open('html/sources', 'w') as fh:
         fh.write(env.get_template('sources.html').render(
+            title   = 'xCast - list of podcasts',
             stats   = stats,
             tags    = tags,
             sources = sorted(sources, key=lambda x: x['title']),
@@ -109,12 +123,12 @@ def generate_pages(sources, people, tags):
             people_ids = sorted(people.keys()) ))
     with open('html/tags', 'w') as fh:
         fh.write(env.get_template('tags.html').render(
+            title   = 'xCast - tags',
             stats   = stats,
             tags    = tags,
             sources = sources,
             people = people,
             people_ids = sorted(people.keys()) ))
-
 
 
 
