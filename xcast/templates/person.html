@@ -6,14 +6,14 @@
     {% if person['episodes'] %}
        <h2>Episodes</h2>
        {% for e in person['episodes'] %}
-           <li><a href="{{ e['permalink'] }}">{{ e['title'] }}</a> {{ e['date'] }} <a href="/s/{{ e['source'] }}">{{ e['source'] }}</a></li>
+           <li>{{ e['date'] }} <a href="{{ e['permalink'] }}">{{ e['title'] }}</a> <a href="/s/{{ e['source'] }}">{{ e['source'] }}</a></li>
        {% endfor %}
     {% endif %}
 
     {% if person['hosting'] %}
 	    <h2>Hosting</h2>
 	    {% for e in person['hosting'] %}
-	        <li><a href="{{ e['permalink'] }}">{{ e['title'] }}</a> {{ e['date'] }} <a href="/s/{{ e['source'] }}">{{ e['source'] }}</a></li>
+	        <li>{{ e['date'] }} <a href="{{ e['permalink'] }}">{{ e['title'] }}</a> <a href="/s/{{ e['source'] }}">{{ e['source'] }}</a></li>
 	    {% endfor %}
 	{% endif %}
 	
