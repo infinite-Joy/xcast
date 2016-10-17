@@ -196,6 +196,112 @@
       "permalink": "https://changelog.com/14/",
       "title" : "Riak, the New Erlang-based NoSQL Store with Andy Gross and Sean Cribbs",
       "date": "2010-02-18"
+  }},
+  {
+      "ep" : "15",
+      "guests": {
+        "leah-culver" : {}
+      },
+      "hosts" : {
+          "adam-stacoviak" : {},
+  		"wynn-netherland" : {}
+      },
+      "keywords": ["OAuth", "Hurl.it", "Baconfile", "startups", "APIs"],
+      "permalink": "https://changelog.com/15/",
+      "title" : "OAuth, Hurl.it, and Baconfile with Leah Culver",
+      "date": "2010-02-27"
+  },
+  {
+      "ep" : "16",
+      "guests": {
+        "ruben-daniels" : {},
+        "rik-arends" : {}
+      },
+      "hosts" : {
+          "adam-stacoviak" : {},
+  		"wynn-netherland" : {}
+      },
+      "keywords": ["Ajax", "APF", "O3"],
+      "permalink": "https://changelog.com/16/",
+      "title" : "Ajax.org frameworks with Ruben Daniels and Rik Arends",
+      "date": "2010-03-08"
+  },
+  {
+      "ep" : "17",
+      "guests": {
+        "geoffrey-grosenbach" : {},
+        "brandon-mathis" : {},
+        "tim-caswell" : {}
+      },
+      "hosts" : {
+          "adam-stacoviak" : {},
+  		"wynn-netherland" : {}
+      },
+      "keywords": ["Open Source", "Open Blogging", "Static Site Generators"],
+      "permalink": "https://changelog.com/17/",
+      "title" : "Open Source Publishing with Geoffrey Grosenbach, Brandon Mathis, and Tim Caswell",
+      "date": "2010-03-11"
+  },
+  {
+      "ep" : "18",
+      "guests": {
+        "stu-hood" : {},
+        "jan-lehnardt" : {},
+        "werner-vogels" : {}
+      },
+      "hosts" : {
+          "adam-stacoviak" : {},
+  		"wynn-netherland" : {}
+      },
+      "keywords": ["Cassandra", "CouchDB", "MongoDB", "Amazon SimpleDB"],
+      "permalink": "https://changelog.com/18/",
+      "title" : "NoSQL Smackdown!",
+      "date": "2010-03-18"
+  },
+  {
+      "ep" : "19",
+      "guests": {
+        "james-edward-gray-II" : {}
+      },
+      "hosts" : {
+          "adam-stacoviak" : {},
+  		"wynn-netherland" : {}
+      },
+      "keywords": ["Ruby", "TextMate"],
+      "permalink": "https://changelog.com/19/",
+      "title" : "Ruby, TextMate, and Red Dirt Ruby Conf with James Edward Gray",
+      "date": "2010-03-30"
+  },
+  {
+      "ep" : "20",
+      "guests": {
+        "felix-geisendörfer" : {}
+      },
+      "hosts" : {
+          "adam-stacoviak" : {},
+  		"wynn-netherland" : {}
+      },
+      "keywords": ["Node.js", "server-side JavaScript"],
+      "permalink": "https://changelog.com/20/",
+      "title" : "Node.js and Server-Side JavaScript with Felix Geisendörfer",
+      "date": "2011-04-06"
+  },
+  {
+      "ep" : "21",
+      "guests": {
+        "johm-manoogian-III" : {},
+        "erik-michaels-ober" : {},
+        "hayes-davis" : {},
+        "christie-koehler" : {}
+      },
+      "hosts" : {
+          "adam-stacoviak" : {},
+  		"wynn-netherland" : {}
+      },
+      "keywords": ["Twitter", "Open Source"],
+      "permalink": "https://changelog.com/21/",
+      "title" : "Tweets from Chirp, Twitter's Developer Conference",
+      "date": "2010-04-20"
   }
 ]
 
