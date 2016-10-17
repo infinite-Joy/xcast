@@ -196,7 +196,7 @@
       "permalink": "https://changelog.com/14/",
       "title" : "Riak, the New Erlang-based NoSQL Store with Andy Gross and Sean Cribbs",
       "date": "2010-02-18"
-  }},
+  },
   {
       "ep" : "15",
       "guests": {
@@ -275,7 +275,7 @@
   {
       "ep" : "20",
       "guests": {
-        "felix-geisendörfer" : {}
+        "felix-geisendorfer" : {}
       },
       "hosts" : {
           "adam-stacoviak" : {},
@@ -289,7 +289,7 @@
   {
       "ep" : "21",
       "guests": {
-        "johm-manoogian-III" : {},
+        "john-manoogian-III" : {},
         "erik-michaels-ober" : {},
         "hayes-davis" : {},
         "christie-koehler" : {}
