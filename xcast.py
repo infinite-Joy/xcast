@@ -58,6 +58,8 @@ def generate_pages(sources, people, tags):
     if not os.path.exists('html/p/'):
         os.mkdir('html/p/')
     for p in people.keys():
+        people[p]['episodes'].sort(key=lambda x : x['date'], reverse=True)
+        people[p]['hosting'].sort(key=lambda x : x['date'], reverse=True)
         with open('html/p/' + p, 'w') as fh:
             fh.write(person_template.render(
                 id     = p,
