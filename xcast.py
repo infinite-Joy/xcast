@@ -163,6 +163,7 @@ def read_episodes(sources):
                 except json.decoder.JSONDecodeError as e:
                     print("ERROR: Could not read in {}".format(file))
                     print(e)
+                    src['episodes'] = [] # let the rest of the code work
                     pass
     return episodes
 
