@@ -103,6 +103,190 @@
 
 
    {
+    "ep" : "381",
+    "guests": {
+        "brett-gaylor" : {}
+    },
+    "hosts" : {
+        "randal-schwartz" : {},
+        "simon-phipps" : {}
+    },
+    "keywords": ["Mozila", "Campaign"],
+    "permalink": "https://twit.tv/shows/floss-weekly/episodes/381",
+    "title" : "Mozila Encryption Campaign",
+    "date": "2016-03-30"
+  },
+  {
+    "ep" : "382",
+    "guests": {
+        "rachel-roumeliotis" : {},
+		"scott-hanselman" : {}
+    },
+    "hosts" : {
+        "randal-schwartz" : {}
+    },
+    "keywords": ["OSCON", "Discuss OSCON"],
+    "permalink": "https://twit.tv/shows/floss-weekly/episodes/382",
+    "title" : "OSCON Preview",
+    "date": "2016-04-05"
+  },
+  {
+    "ep" : "383",
+    "guests": {
+        "will-braswell" : {}
+    },
+    "hosts" : {
+        "randal-schwartz" : {},
+		"aaron-newcomb" : {}
+    },
+    "keywords": ["Perl", "Professional Perl Programmer"],
+    "permalink": "https://twit.tv/shows/floss-weekly/episodes/383",
+    "title" : "The Future of Perl Performance",
+    "date": "2016-04-12"
+  },
+  {
+    "ep" : "384",
+    "guests": {
+        "will-braswell" : {}
+    },
+    "hosts" : {
+        "randal-schwartz" : {},
+		"aaron-newcomb" : {}
+    },
+    "keywords": ["RPerl", "Perl 5 programming language", "Restricted Perl", "Revolutionary Perl"],
+    "permalink": "https://twit.tv/shows/floss-weekly/episodes/384",
+    "title" : "RPerl",
+    "date": "2016-04-19"
+  },
+  {
+    "ep" : "385",
+    "guests": {
+        "maymay" : {},
+		"rebecca-crane" : {}
+    },
+    "hosts" : {
+        "randal-schwartz" : {},
+		"guillermo-amaral" : {}
+    },
+    "keywords": ["Buoy", "community"],
+    "permalink": "https://twit.tv/shows/floss-weekly/episodes/385",
+    "title" : "Buoy",
+    "date": "2016-04-26"
+  },
+  {
+    "ep" : "386",
+    "guests": {
+        "david-gatti" : {}
+    },
+    "hosts" : {
+        "randal-schwartz" : {},
+		"simon-phipps" : {}
+    },
+    "keywords": ["David Gatti", "PHP", "Blogger", "CMS"],
+    "permalink": "https://twit.tv/shows/floss-weekly/episodes/386",
+    "title" : "David Gatti",
+    "date": "2016-05-03"
+  },
+   {
+    "ep" : "387",
+    "guests": {
+        "mikeal-rogers" : {}
+    },
+    "hosts" : {
+        "randal-schwartz" : {},
+		"aaron-newcomb" : {}
+    },
+    "keywords": ["Node.js ", "JavaScript", "Node.js Foundation"],
+    "permalink": "https://twit.tv/shows/floss-weekly/episodes/387",
+    "title" : "Node.js Update",
+    "date": "2016-05-10"
+   },
+   {
+    "ep" : "388",
+    "guests": {
+        "zohar-babin" : {},
+		"jess-portnoy" : {}
+    },
+    "hosts" : {
+        "randal-schwartz" : {}
+    },
+    "keywords": ["Kaltura", "Platform for open source video"],
+    "permalink": "https://twit.tv/shows/floss-weekly/episodes/388",
+    "title" : "Kaltura Update",
+    "date": "2016-05-17"
+   },
+   {
+    "ep" : "389",
+    "guests": {
+        "david-wheeler" : {},
+		"emily-ratliff" : {}
+    },
+    "hosts" : {
+        "randal-schwartz" : {},
+        "guillermo-amaral" : {}
+    },
+    "keywords": ["Badge", "FLOSS"],
+    "permalink": "https://twit.tv/shows/floss-weekly/episodes/389",
+    "title" : "Best Practices Badge",
+    "date": "2016-05-24"
+   },
+   {
+    "ep" : "390",
+    "guests": {
+        "per-buer" : {}
+    },
+    "hosts" : {
+        "randal-schwartz" : {},
+        "guillermo-amaral" : {}
+    },
+    "keywords": ["Varnish Cache", "HTTP"],
+    "permalink": "https://twit.tv/shows/floss-weekly/episodes/390",
+    "title" : "Varnish Cache",
+    "date": "2016-05-31"
+   },
+   {
+    "ep" : "391",
+    "guests": {
+        "bill-appleton" : {}
+    },
+    "hosts" : {
+        "randal-schwartz" : {},
+        "gareth-greenaway" : {}
+    },
+    "keywords": ["DreamFactory", "Database", "API platform"],
+    "permalink": "https://twit.tv/shows/floss-weekly/episodes/391",
+    "title" : "DreamFactory",
+    "date": "2016-06-07"
+   },
+   {
+    "ep" : "392",
+    "guests": {
+        "patrick-mcfadin" : {}
+    },
+    "hosts" : {
+        "randal-schwartz" : {},
+        "aaron-newcomb" : {}
+    },
+    "keywords": ["Apache Cassandra"],
+    "permalink": "https://twit.tv/shows/floss-weekly/episodes/392",
+    "title" : "Apache Cassandra",
+    "date": "2016-06-14"
+   },
+   {
+    "ep" : "393",
+    "guests": {
+        "jesus-m-gonzalez-barahona" : {}
+    },
+    "hosts" : {
+        "randal-schwartz" : {},
+        "jonathan-bennett" : {}
+    },
+    "keywords": ["Bitergia"],
+    "permalink": "https://twit.tv/shows/floss-weekly/episodes/393",
+    "title" : "Bitergia",
+    "date": "2016-06-21"
+   },
+   {
     "ep" : "394",
 
     "hosts" : {
