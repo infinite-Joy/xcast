@@ -730,7 +730,7 @@
     "hosts" : {
         "michael-kennedy" : {}
     },
-    "keywords": ["Python"], 
+    "keywords": ["Python", "diversity"], 
     "permalink": "https://talkpython.fm/episodes/show/55/how-our-engineering-environments-are-killing-diversity-and-how-we-can-fix-it",
     "title" : "How our engineering environments are killing diversity (and how we can fix it)",
     "date": "2016-04-21"

@@ -83,5 +83,14 @@
 		"url"     : "https://devchat.tv/ruby-rogues",
 		"feed"    : "https://feeds.feedwrench.com/RubyRogues.rss",
 		"itunes"  : "https://itunes.apple.com/us/podcast/ruby-rogues/id705335155"
+	},
+	{
+		"name"    : "fogcreek",
+		"title"   : "Fog Creek ",
+		"url"     : "https://blog.fogcreek.com/"
+	},
+    {
+		"name"    : "other",
+		"title"   : "Other videos and shows that are not categorized yet"
 	}
 ]
