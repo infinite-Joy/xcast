@@ -89,6 +89,11 @@
 		"title"   : "Fog Creek ",
 		"url"     : "https://blog.fogcreek.com/"
 	},
+	{
+		"name"    : "pycon-2015",
+		"title"   : "PyCon 2015 Montreal",
+		"url"     : "https://us.pycon.org/2015/"
+	},
     {
 		"name"    : "other",
 		"title"   : "Other videos and shows that are not categorized yet"
