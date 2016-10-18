@@ -92,7 +92,7 @@ Site layout
 
 TODO (or maybe not?):
 -----------------------
-* Meaningful title: Title of each page is the title of the person, or the source,
+
 * Javascript based search option with look-ahead.
 
 * Include the episode number for each episode
