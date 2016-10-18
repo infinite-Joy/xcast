@@ -85,6 +85,13 @@
 		"itunes"  : "https://itunes.apple.com/us/podcast/ruby-rogues/id705335155"
 	},
 	{
+		"name"    : "js-jabber",
+		"title"   : "JavaScript Jabber",
+		"url"     : "https://devchat.tv/js-jabber",
+		"feed"    : "https://feeds.feedwrench.com/JavaScriptJabber.rss",
+		"itunes"  : "https://itunes.apple.com/us/podcast/javascript-jabber/id496893300"
+	},
+	{
 		"name"    : "fogcreek",
 		"title"   : "Fog Creek ",
 		"url"     : "https://blog.fogcreek.com/"
