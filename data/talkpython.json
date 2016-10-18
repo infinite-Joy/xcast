@@ -760,5 +760,98 @@
     "permalink": "https://talkpython.fm/episodes/show/57/python-performance-from-the-inside-out-at-intel",
     "title" : "Python performance from the inside-out at Intel",
     "date": "2016-05-05"
+  },
+  {
+    "ep" : "58",
+    "guests": {
+         "mark-summerfield" : {}
+    },
+    "hosts" : {
+        "michael-kennedy" : {}
+    },
+    "keywords": ["Python", "concurrency"], 
+    "permalink": "https://talkpython.fm/episodes/show/58/create-better-python-programs-with-concurrency-libraries-and-patterns",
+    "title" : "Create better Python programs with concurrency, libraries, and patterns",
+    "date": "2016-05-10"
+  },
+  {
+    "ep" : "59",
+    "guests": {
+         "william-stein" : {}
+    },
+    "hosts" : {
+        "michael-kennedy" : {}
+    },
+    "keywords": ["Python", "SageMath", "Magma", "Matlab", "Mathematica"], 
+    "permalink": "https://talkpython.fm/episodes/show/59/sagemath-open-source-is-ready-to-compete-in-the-classroom",
+    "title" : "SageMath - Open source is ready to compete in the classroom",
+    "date": "2016-05-18"
+  },
+  {
+    "ep" : "60",
+    "guests": {
+         "braxton-mckee" : {}
+    },
+    "hosts" : {
+        "michael-kennedy" : {}
+    },
+    "keywords": ["Python", "Ufora"], 
+    "permalink": "https://talkpython.fm/episodes/show/60/scaling-python-to-1000-s-of-cores-with-ufora",
+    "title" : "Scaling Python to 1000's of cores with Ufora",
+    "date": "2016-05-24"
+  },
+  {
+    "ep" : "61",
+    "guests": {
+         "pete-fein" : {}
+    },
+    "hosts" : {
+        "michael-kennedy" : {}
+    },
+    "keywords": ["Python"], 
+    "permalink": "https://talkpython.fm/episodes/show/61/free-software-free-people",
+    "title" : "Free software, free people",
+    "date": "2016-05-30"
+  },
+  {
+    "ep" : "62",
+    "guests": {
+         "scott-reed" : {},
+         "brad-cunningham" : {},
+         "ike-ellis" : {}
+    },
+    "hosts" : {
+        "michael-kennedy" : {}
+    },
+    "keywords": ["Python"], 
+    "permalink": "https://talkpython.fm/episodes/show/62/san-diego-technology-immersion-group-learns-python",
+    "title" : "San Diego Technology Immersion Group Learns Python",
+    "date": "2016-06-07"
+  },
+  {
+    "ep" : "63",
+    "guests": {
+         "austin-bingham" : {}
+    },
+    "hosts" : {
+        "michael-kennedy" : {}
+    },
+    "keywords": ["Python", "TinyDB"], 
+    "permalink": "https://talkpython.fm/episodes/show/63/validating-python-tests-with-mutation-testing",
+    "title" : "Validating Python tests with mutation testing",
+    "date": "2016-06-16"
+  },
+  {
+    "ep" : "64",
+    "guests": {
+         "donald-stufft" : {}
+    },
+    "hosts" : {
+        "michael-kennedy" : {}
+    },
+    "keywords": ["Python", "PyPI", "Warehouse", "BigQuery"], 
+    "permalink": "https://talkpython.fm/episodes/show/64/inside-the-python-package-index",
+    "title" : "Inside the Python Package Index",
+    "date": "2016-06-24"
   }
 ]
