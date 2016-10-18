@@ -1,16 +1,20 @@
 [
-  {
-    "guests": {
-      "kate-heddleston" : {}
-    },
-    "hosts" : {
-		"gareth-wilson" : {}
-	},
-	"comments" : "FogCreekSoftware",
-    "keywords": ["diversity", "onboarding", "mentoring"],
-    "permalink": "https://blog.fogcreek.com/how-to-onboard-software-engineers-interview-with-kate-heddleston/",
-	"youtube" : "https://www.youtube.com/watch?v=Bt40BOXfejk",
-    "title" : "How to Onboard Software Engineers",
-    "date": "2015-08-26"
-  }
+    {
+        "comments": "FogCreekSoftware",
+        "date": "2015-08-26",
+        "guests": {
+            "kate-heddleston": {}
+        },
+        "hosts": {
+            "gareth-wilson": {}
+        },
+        "keywords": [
+            "diversity",
+            "onboarding",
+            "mentoring"
+        ],
+        "permalink": "https://blog.fogcreek.com/how-to-onboard-software-engineers-interview-with-kate-heddleston/",
+        "title": "How to Onboard Software Engineers",
+        "youtube": "https://www.youtube.com/watch?v=Bt40BOXfejk"
+    }
 ]

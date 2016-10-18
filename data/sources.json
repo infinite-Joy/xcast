@@ -1,108 +1,108 @@
 [
-	{
-		"name"   : "cmos",
-		"title"  : "Code-Maven Open Source podcast and video interviews",
-		"url"    : "http://code-maven.com/cmos",
-		"feed"   : "http://code-maven.com/rss/cmos",
-		"itunes" : "https://itunes.apple.com/il/podcast/code-maven/id1153427237"
-	},
-	{
-		"name"   : "changelog",
-		"title"  : "ChangeLog",
-		"url"    : "https://changelog.com/podcast/",
-		"feed"   : "http://feeds.5by5.tv/changelog",
-		"itunes" : "https://itunes.apple.com/podcast/the-changelog/id341623264"
-	},
-	{
-		"name"   : "rfc",
-		"title"  : "Request For Commits",
-		"url"    : "https://changelog.com/rfc/",
-		"feed"   : "https://changelog.com/rfc/feed",
-		"itunes" : "https://itunes.apple.com/us/podcast/request-for-commits/id1141345001"
-	},
-	{
-		"name"   : "talkpython",
-		"title"  : "Talk Python to Me",
-		"url"    : "http://talkpython.fm/",
-		"feed"   : "https://talkpython.fm/episodes/rss",
-		"itunes" : "https://itunes.apple.com/us/podcast/talk-python-to-me-python-conversations/id979020229"
-	},
-	{
-		"name"   : "codenewbie",
-		"title"  : "CodeNewbie with Saron Yitbarek",
-		"url"    : "http://www.codenewbie.org/",
-		"feed"   : "http://feeds.codenewbie.org/cnpodcast.xml",
-		"itunes" : "https://itunes.apple.com/us/podcast/codenewbie/id919219256"
-	},
-	{
-		"name"   : "pythonpodcast",
-		"title"  : "Podcast.__init__",
-		"url"    : "http://pythonpodcast.com/",
-		"feed"   : "http://podcastinit.podbean.com/feed/",
-		"itunes" : "https://itunes.apple.com/us/podcast/podcast.-init/id981834425"
-	},
-	{
-		"name"   : "software-engineering-daily",
-		"title"  : "Software Engineering Daily",
-		"url"    : "http://softwareengineeringdaily.com/",
-		"feed"   : "http://softwareengineeringdaily.com/feed/podcast/",
-		"itunes" : "https://itunes.apple.com/us/podcast/software-engineering-daily/id1019576853",
-		"alter"  : "http://www.stitcher.com/podcast/software-engineering-daily/"
-	},
-	{
-		"name"    : "startupmadnessacademy",
-		"title"   : "Startup Madness Academy",
-		"url"     : "http://startupmadnessacademy.com/",
-		"feed"    : "http://startupmadnessacademy.com/feed/",
-		"itunes"  : "https://itunes.apple.com/us/podcast/startup-madness-podcast-making/id1054543151"
-	},
-	{
-		"name"    : "giantrobots",
-		"title"   : "Giant Robots smashing Into Other Giant Robots",
-		"url"     : "http://giantrobots.fm/",
-		"feed"    : "https://simplecast.com/podcasts/271/rss",
-		"itunes"  : "https://itunes.apple.com/us/podcast/giant-robots-smashing-into/id535121941"
-	},
-	{
-		"name"    : "floss-weekly",
-		"title"   : "Floss Weekly",
-		"url"     : "https://twit.tv/shows/floss-weekly",
-		"feed"    : "http://feeds.twit.tv/floss.xml",
-		"itunes"  : "https://itunes.apple.com/us/podcast/floss-weekly-mp3/id140847216"
-	},
-	{
-		"name"    : "developeronfire",
-		"title"   : "Developer On Fire",
-		"url"     : "http://developeronfire.com/",
-		"feed"    : "http://developeronfire.com/rss.xml",
-		"itunes"  : "https://itunes.apple.com/il/podcast/developer-on-fire/id1006105326"
-	},
-	{
-		"name"    : "ruby-rogues",
-		"title"   : "Ruby Rogues",
-		"url"     : "https://devchat.tv/ruby-rogues",
-		"feed"    : "https://feeds.feedwrench.com/RubyRogues.rss",
-		"itunes"  : "https://itunes.apple.com/us/podcast/ruby-rogues/id705335155"
-	},
-	{
-		"name"    : "js-jabber",
-		"title"   : "JavaScript Jabber",
-		"url"     : "https://devchat.tv/js-jabber",
-		"feed"    : "https://feeds.feedwrench.com/JavaScriptJabber.rss",
-		"itunes"  : "https://itunes.apple.com/us/podcast/javascript-jabber/id496893300"
-	},
-	{
-		"name"    : "fogcreek",
-		"title"   : "Fog Creek ",
-		"url"     : "https://blog.fogcreek.com/"
-	},
-	{
-		"name"    : "pycon-2015",
-		"title"   : "PyCon 2015 Montreal",
-		"url"     : "https://us.pycon.org/2015/"
-	},
     {
-		"name"    : "other",
-		"title"   : "Other videos and shows that are not categorized yet"
-	}
+        "feed": "http://code-maven.com/rss/cmos",
+        "itunes": "https://itunes.apple.com/il/podcast/code-maven/id1153427237",
+        "name": "cmos",
+        "title": "Code-Maven Open Source podcast and video interviews",
+        "url": "http://code-maven.com/cmos"
+    },
+    {
+        "feed": "http://feeds.5by5.tv/changelog",
+        "itunes": "https://itunes.apple.com/podcast/the-changelog/id341623264",
+        "name": "changelog",
+        "title": "ChangeLog",
+        "url": "https://changelog.com/podcast/"
+    },
+    {
+        "feed": "https://changelog.com/rfc/feed",
+        "itunes": "https://itunes.apple.com/us/podcast/request-for-commits/id1141345001",
+        "name": "rfc",
+        "title": "Request For Commits",
+        "url": "https://changelog.com/rfc/"
+    },
+    {
+        "feed": "https://talkpython.fm/episodes/rss",
+        "itunes": "https://itunes.apple.com/us/podcast/talk-python-to-me-python-conversations/id979020229",
+        "name": "talkpython",
+        "title": "Talk Python to Me",
+        "url": "http://talkpython.fm/"
+    },
+    {
+        "feed": "http://feeds.codenewbie.org/cnpodcast.xml",
+        "itunes": "https://itunes.apple.com/us/podcast/codenewbie/id919219256",
+        "name": "codenewbie",
+        "title": "CodeNewbie with Saron Yitbarek",
+        "url": "http://www.codenewbie.org/"
+    },
+    {
+        "feed": "http://podcastinit.podbean.com/feed/",
+        "itunes": "https://itunes.apple.com/us/podcast/podcast.-init/id981834425",
+        "name": "pythonpodcast",
+        "title": "Podcast.__init__",
+        "url": "http://pythonpodcast.com/"
+    },
+    {
+        "alter": "http://www.stitcher.com/podcast/software-engineering-daily/",
+        "feed": "http://softwareengineeringdaily.com/feed/podcast/",
+        "itunes": "https://itunes.apple.com/us/podcast/software-engineering-daily/id1019576853",
+        "name": "software-engineering-daily",
+        "title": "Software Engineering Daily",
+        "url": "http://softwareengineeringdaily.com/"
+    },
+    {
+        "feed": "http://startupmadnessacademy.com/feed/",
+        "itunes": "https://itunes.apple.com/us/podcast/startup-madness-podcast-making/id1054543151",
+        "name": "startupmadnessacademy",
+        "title": "Startup Madness Academy",
+        "url": "http://startupmadnessacademy.com/"
+    },
+    {
+        "feed": "https://simplecast.com/podcasts/271/rss",
+        "itunes": "https://itunes.apple.com/us/podcast/giant-robots-smashing-into/id535121941",
+        "name": "giantrobots",
+        "title": "Giant Robots smashing Into Other Giant Robots",
+        "url": "http://giantrobots.fm/"
+    },
+    {
+        "feed": "http://feeds.twit.tv/floss.xml",
+        "itunes": "https://itunes.apple.com/us/podcast/floss-weekly-mp3/id140847216",
+        "name": "floss-weekly",
+        "title": "Floss Weekly",
+        "url": "https://twit.tv/shows/floss-weekly"
+    },
+    {
+        "feed": "http://developeronfire.com/rss.xml",
+        "itunes": "https://itunes.apple.com/il/podcast/developer-on-fire/id1006105326",
+        "name": "developeronfire",
+        "title": "Developer On Fire",
+        "url": "http://developeronfire.com/"
+    },
+    {
+        "feed": "https://feeds.feedwrench.com/RubyRogues.rss",
+        "itunes": "https://itunes.apple.com/us/podcast/ruby-rogues/id705335155",
+        "name": "ruby-rogues",
+        "title": "Ruby Rogues",
+        "url": "https://devchat.tv/ruby-rogues"
+    },
+    {
+        "feed": "https://feeds.feedwrench.com/JavaScriptJabber.rss",
+        "itunes": "https://itunes.apple.com/us/podcast/javascript-jabber/id496893300",
+        "name": "js-jabber",
+        "title": "JavaScript Jabber",
+        "url": "https://devchat.tv/js-jabber"
+    },
+    {
+        "name": "fogcreek",
+        "title": "Fog Creek ",
+        "url": "https://blog.fogcreek.com/"
+    },
+    {
+        "name": "pycon-2015",
+        "title": "PyCon 2015 Montreal",
+        "url": "https://us.pycon.org/2015/"
+    },
+    {
+        "name": "other",
+        "title": "Other videos and shows that are not categorized yet"
+    }
 ]
