@@ -302,6 +302,53 @@
       "permalink": "https://changelog.com/21/",
       "title" : "Tweets from Chirp, Twitter's Developer Conference",
       "date": "2010-04-20"
+  },
+  {
+      "ep" : "22",
+      "guests": {
+        "aaron-quint" : {}
+      },
+      "hosts" : {
+          "adam-stacoviak" : {},
+  		"wynn-netherland" : {}
+      },
+      "keywords": ["JavaScript", "Sammy.js", "jQuery"],
+      "permalink": "https://changelog.com/22/",
+      "title" : "Sammy.js and Semantic Versioning with Aaron Quint",
+      "date": "2010-04-20"
+  },
+  {
+      "ep" : "23",
+      "guests": {
+        "charles-lowell" : {}
+      },
+      "hosts" : {
+  		"wynn-netherland" : {},
+        "gregg-pollack" : {}
+      },
+      "keywords": ["Ruby", "JavaScript"],
+      "permalink": "https://changelog.com/23/",
+      "title" : "The Ruby Racer with Charles Lowell",
+      "date": "2010-05-11"
+  },
+  {
+      "ep" : "24",
+      "guests": {
+        "david-recordon" : {},
+        "paul-buchheit" : {},
+        "haiping-zhou" : {},
+        "scott-macvicar" : {},
+        "owen-yamauchi" : {},
+        "joe-hewitt" : {}
+      },
+      "hosts" : {
+          "adam-stacoviak" : {},
+  		"wynn-netherland" : {}
+      },
+      "keywords": ["Tornado", "Hip-hop", "Three20", "Facebook"],
+      "permalink": "https://changelog.com/24/",
+      "title" : "Tornado, Hip-hop, and Three20 with David Recordon",
+      "date": "2010-05-18"
   }
 ]
 
