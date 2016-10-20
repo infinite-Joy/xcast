@@ -17,3 +17,32 @@
     padding: 3px 10px 3px 10px;
     text-decoration: none;
 }
+
+#menu li {
+    display: inline;
+    list-style-type: none;
+    padding-right: 20px;
+}
+#menu a {
+    text-decoration: none;
+    padding: 3px 10px 3px 10px;
+    background: #753DFF;
+    color: #FFF;
+}
+
+#github {
+    display: none;
+}
+@media (min-width: 600px) {
+    #github {
+        display: block;
+    }
+}
+
+.ep {
+    background-color: #DDD;
+    width: 30px;
+    display: inline-block;
+    text-align: right;
+}
+

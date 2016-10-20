@@ -1,31 +1,20 @@
 {% include 'incl/header.html' %}
 
+<div>
+Collecting information about interviews and presentations of Open Source projects and Technology in general.
+There are currently {{stats['episodes']}} episodes listed from <a href="/sources">{{stats['sources']}} podcasts</a> featuring <a href="/people">{{stats['people']}} people</a>.
+<p>
+The list of the podcasts is a bit arbitrary. If you'd like to see additional podcasts listed here, file a ticket or open a pull request.
+<p>
+</div>
+
+<!--
     <h2>Stats</h2>
     <ul>
        <li>People: {{stats['people']}}</li>
        <li>Sources: {{stats['sources']}}</li>
        <li>Episodes: {{stats['episodes']}}</li>
     </ul>
-
-    <h2>Sources</h2>
-    <ul id="sources">
-    {% for s in sources %}
-        <li><a href="/s/{{ s.name }}">{{ s.title }}</a> ({{ s.episodes | length }})</li>
-    {% endfor %}
-    </ul>
-
-    <h2>People</h2>
-    <ul id="people">
-    {% for p in people_ids %}
-        <li><a href="/p/{{ p }}">{{ people[p]['info']['name'] }}</a> ({{ people[p]['episodes'] | length  }} + {{ people[p]['hosting'] | length }})</li>
-    {% endfor %}
-    </ul>
-
-    <h2>Tags</h2>
-    <ul id="tags">
-    {% for t in tags %}
-        <li><a href="/t/{{ t }}">{{ tags[t]['tag'] }}</a> ({{ tags[t]['episodes'] | length  }})</li>
-    {% endfor %}
-    </ul>
+-->
 
 {% include 'incl/footer.html' %}

@@ -1,16 +1,1119 @@
 [
-  {
-    "ep" : "406",
-    "guests": {
-        "ole-andre-vadla-ravnas" : {}
+    {
+        "date": "2010-01-01",
+        "ep": "102",
+        "guests": {
+            "frank-wierzbicki": {}
+        },
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [
+            "Jython",
+            "Java",
+            "JPython"
+        ],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/102",
+        "title": "Jython"
     },
-    "hosts" : {
-        "randal-schwartz" : {},
-        "guillermo-amaral" : {}
+    {
+        "date": "2010-01-06",
+        "ep": "103",
+        "guests": {
+            "jeff-davis": {}
+        },
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [
+            "Open SOA"
+        ],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/103",
+        "title": "Open Source SOA"
     },
-    "keywords": ["Frida"],
-    "permalink": "https://twit.tv/shows/floss-weekly/episodes/406",
-    "title" : "Frida",
-    "date": "2016-10-05"
-  }
+    {
+        "date": "2010-01-14",
+        "ep": "104",
+        "guests": {
+            "randi-harper": {}
+        },
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [
+            "FreeBSD"
+        ],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/104",
+        "title": "FreeBSDGirl"
+    },
+    {
+        "date": "2010-01-21",
+        "ep": "105",
+        "guests": {
+            "michael-dirolf": {}
+        },
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [
+            "MongoDB",
+            "NoSQL",
+            "database"
+        ],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/105",
+        "title": "MongoDB"
+    },
+    {
+        "date": "2010-02-01",
+        "ep": "106",
+        "guests": {
+            "mark-burgess": {}
+        },
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [
+            "Cfengine",
+            "datacenter"
+        ],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/106",
+        "title": "Cfengine"
+    },
+    {
+        "date": "2010-02-04",
+        "ep": "107",
+        "guests": {
+            "matthew-gates": {}
+        },
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [
+            "Stellarium"
+        ],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/107",
+        "title": "Stellarium"
+    },
+    {
+        "date": "2010-02-11",
+        "ep": "108",
+        "guests": {
+            "henrique-bastos": {}
+        },
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [
+            "Python"
+        ],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/108",
+        "title": "Henrique Bastos"
+    },
+    {
+        "date": "2015-08-26",
+        "ep": "351",
+        "guests": {
+            "brian-grant": {},
+            "tim-hockin": {}
+        },
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [
+            "Kubernetes",
+            "Orchestration System"
+        ],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/351",
+        "title": "Kubernetes"
+    },
+    {
+        "date": "2015-09-01",
+        "ep": "352",
+        "guests": {
+            "jonathan-bennett": {},
+            "michael-rash": {}
+        },
+        "hosts": {
+            "gareth-greenaway": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [
+            "Fwknop"
+        ],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/352",
+        "title": "Fwknop"
+    },
+    {
+        "date": "2015-09-08",
+        "ep": "353",
+        "guests": {
+            "benoit-minisini": {}
+        },
+        "hosts": {
+            "randal-schwartz": {},
+            "simon-phipps": {}
+        },
+        "keywords": [
+            "Gambas",
+            "Java",
+            "Inspired by JAVA"
+        ],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/353",
+        "title": "Gambas"
+    },
+    {
+        "date": "2015-09-16",
+        "ep": "354",
+        "guests": {
+            "bernd-erk": {}
+        },
+        "hosts": {
+            "guillermo-amaral": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [
+            "Icinga",
+            "Source"
+        ],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/354",
+        "title": "Icinga"
+    },
+    {
+        "date": "2015-09-23",
+        "ep": "355",
+        "guests": {
+            "anselm-r-garbe": {},
+            "kai-hendry": {}
+        },
+        "hosts": {
+            "guillermo-amaral": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [
+            "Suckless",
+            "Focuses on advanced and experienced computer users"
+        ],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/355",
+        "title": "Suckless"
+    },
+    {
+        "date": "2015-09-30",
+        "ep": "356",
+        "guests": {
+            "joshua-lifton": {}
+        },
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [
+            "Crowd Supply",
+            "Hardware",
+            "Software",
+            "Foundation"
+        ],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/356",
+        "title": "Crowd Supply"
+    },
+    {
+        "date": "2015-10-07",
+        "ep": "357",
+        "guests": {
+            "julius-volz": {}
+        },
+        "hosts": {
+            "guillermo-amaral": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [
+            "Prometheus",
+            "SoundCloud"
+        ],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/357",
+        "title": "Prometheus"
+    },
+    {
+        "date": "2015-10-13",
+        "ep": "358",
+        "guests": {
+            "martin-sustrik": {}
+        },
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [
+            "Libmill"
+        ],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/358",
+        "title": "Libmill"
+    },
+    {
+        "date": "2015-10-20",
+        "ep": "359",
+        "guests": {
+            "tim-ansell": {}
+        },
+        "hosts": {
+            "guillermo-amaral": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [
+            "Numato Opsis",
+            "FPGA",
+            "Video platform"
+        ],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/359",
+        "title": "Numato Opsis"
+    },
+    {
+        "date": "2015-10-27",
+        "ep": "360",
+        "guests": {
+            "david-scheltema": {},
+            "ryan-cousins": {}
+        },
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [
+            "Snickerdoodle",
+            "ARM application"
+        ],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/360",
+        "title": "Snickerdoodle"
+    },
+    {
+        "date": "2015-11-03",
+        "ep": "361",
+        "guests": {
+            "jos-schellevis": {}
+        },
+        "hosts": {
+            "gareth-greenaway": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [
+            "OPNsense",
+            "OpenVPN"
+        ],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/361",
+        "title": "OPNsense"
+    },
+    {
+        "date": "2015-11-10",
+        "ep": "362",
+        "guests": {
+            "kasper-lund": {}
+        },
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [
+            "Dart",
+            "Dart Update"
+        ],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/362",
+        "title": "Dart Update"
+    },
+    {
+        "date": "2015-11-17",
+        "ep": "363",
+        "guests": {
+            "peter-rabbitson": {}
+        },
+        "hosts": {
+            "guillermo-amaral": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [
+            "DBIx::Class",
+            "Perl5 ORM",
+            "CPAN:Perl5"
+        ],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/363",
+        "title": "DBIx::Class"
+    },
+    {
+        "date": "2015-11-24",
+        "ep": "364",
+        "guests": {
+            "abiola-ibrahim": {},
+            "matt-holt": {}
+        },
+        "hosts": {
+            "aaron-newcomb": {},
+            "guillermo-amaral": {}
+        },
+        "keywords": [
+            "Caddy",
+            "HTTP/2",
+            "IPv6",
+            "WebSockets",
+            "FastCGI"
+        ],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/364",
+        "title": "Caddy"
+    },
+    {
+        "date": "2015-12-01",
+        "ep": "365",
+        "guests": {
+            "peter-hoddie": {}
+        },
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [
+            "Kinoma",
+            "JavaScript"
+        ],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/365",
+        "title": "Kinoma"
+    },
+    {
+        "date": "2015-12-08",
+        "ep": "366",
+        "guests": {
+            "matthieu-aubry": {}
+        },
+        "hosts": {
+            "guillermo-amaral": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [
+            "Piwik",
+            "Open source web analytics platform"
+        ],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/366",
+        "title": "Piwik"
+    },
+    {
+        "date": "2015-12-15",
+        "ep": "367",
+        "guests": {
+            "manuel-vacelet": {},
+            "matteo-mazzeri": {}
+        },
+        "hosts": {
+            "randal-schwartz": {},
+            "simon-phipps": {}
+        },
+        "keywords": [
+            "Tuleap",
+            "Agile Development",
+            "V-model",
+            "IT Services"
+        ],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/367",
+        "title": "Tuleap"
+    },
+    {
+        "date": "2015-12-22",
+        "ep": "368",
+        "guests": {
+            "gene-ressler": {},
+            "steve-ressler": {}
+        },
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [
+            "Bridge",
+            "Bridge Design Contest"
+        ],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/368",
+        "title": "Bridge Design Contest"
+    },
+    {
+        "date": "2016-01-05",
+        "ep": "369",
+        "guests": {
+            "braydon-fuller": {},
+            "chris-kleeschulte": {}
+        },
+        "hosts": {
+            "aaron-newcomb": {},
+            "simon-phipps": {}
+        },
+        "keywords": [
+            "Bitcore",
+            "Bitcoin node",
+            "Bitcoin's source code"
+        ],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/369",
+        "title": "Bitcore 2.0"
+    },
+    {
+        "date": "2016-01-12",
+        "ep": "370",
+        "guests": {
+            "nicolas-froment": {},
+            "thomas-bonte": {}
+        },
+        "hosts": {
+            "aaron-newcomb": {},
+            "guillermo-amaral": {}
+        },
+        "keywords": [
+            "MuseScore"
+        ],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/370",
+        "title": "MuseScore"
+    },
+    {
+        "date": "2016-01-19",
+        "ep": "371",
+        "guests": {
+            "daniel-james": {}
+        },
+        "hosts": {
+            "guillermo-amaral": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [
+            "Booktype",
+            "Books"
+        ],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/371",
+        "title": "Booktype"
+    },
+    {
+        "date": "2016-01-26",
+        "ep": "372",
+        "guests": {
+            "marc-boorshtein": {}
+        },
+        "hosts": {
+            "randal-schwartz": {},
+            "simon-phipps": {}
+        },
+        "keywords": [
+            "OpenUnision",
+            "Virtual directory"
+        ],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/372",
+        "title": "OpenUnison"
+    },
+    {
+        "date": "2016-02-02",
+        "ep": "373",
+        "guests": {
+            "anthony-shaw": {}
+        },
+        "hosts": {
+            "aaron-newcomb": {},
+            "guillermo-amaral": {}
+        },
+        "keywords": [
+            "Libcloud",
+            "Cloud Service Providers "
+        ],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/373",
+        "title": "Apache Libcloud"
+    },
+    {
+        "date": "2016-02-09",
+        "ep": "374",
+        "guests": {
+            "henrik-rosendahl": {}
+        },
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [
+            "Astara",
+            "Orchestration",
+            "OpenStack clouds",
+            "SDN"
+        ],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/374",
+        "title": "OpenStack Astara"
+    },
+    {
+        "date": "2016-02-16",
+        "ep": "375",
+        "guests": {
+            "simon-michael": {}
+        },
+        "hosts": {
+            "randal-schwartz": {},
+            "simon-phipps": {}
+        },
+        "keywords": [
+            "Hledger",
+            "Tracking money"
+        ],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/375",
+        "title": "Hledger"
+    },
+    {
+        "date": "2016-02-23",
+        "ep": "376",
+        "guests": {
+            "gianfranco-ceccolini": {},
+            "harry-van-haaren": {}
+        },
+        "hosts": {
+            "guillermo-amaral": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [
+            "OpenAV",
+            "MOD",
+            "musical technology"
+        ],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/376",
+        "title": "OpenAV & MOD"
+    },
+    {
+        "date": "2016-03-01",
+        "ep": "377",
+        "guests": {
+            "alvaro-hernandez": {}
+        },
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [
+            "ToroDB",
+            "MongoDB",
+            "SQL",
+            "PostgreSQL"
+        ],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/377",
+        "title": "ToroDB"
+    },
+    {
+        "date": "2016-03-08",
+        "ep": "378",
+        "guests": {
+            "garren-smith": {},
+            "jan-lehnardt": {}
+        },
+        "hosts": {
+            "randal-schwartz": {},
+            "simon-phipps": {}
+        },
+        "keywords": [
+            "CouchDB",
+            "embraces"
+        ],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/378",
+        "title": "Couch DB 2.0"
+    },
+    {
+        "date": "2016-03-15",
+        "ep": "379",
+        "guests": {
+            "jan-lehnardt": {},
+            "jenn-turner": {}
+        },
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [
+            "Hoodie",
+            "Software",
+            "web and iOS"
+        ],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/379",
+        "title": "Hoodie "
+    },
+    {
+        "date": "2016-03-22",
+        "ep": "380",
+        "guests": {
+            "david-willson": {},
+            "heather-willson": {}
+        },
+        "hosts": {
+            "gareth-greenaway": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [
+            "Linux",
+            "Wordpress",
+            "Zimbra",
+            "BeagleBone "
+        ],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/380",
+        "title": "Linux Camp 2016"
+    },
+    {
+        "date": "2016-03-30",
+        "ep": "381",
+        "guests": {
+            "brett-gaylor": {}
+        },
+        "hosts": {
+            "randal-schwartz": {},
+            "simon-phipps": {}
+        },
+        "keywords": [
+            "Mozila",
+            "Campaign"
+        ],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/381",
+        "title": "Mozila Encryption Campaign"
+    },
+    {
+        "date": "2016-04-05",
+        "ep": "382",
+        "guests": {
+            "rachel-roumeliotis": {},
+            "scott-hanselman": {}
+        },
+        "hosts": {
+            "randal-schwartz": {}
+        },
+        "keywords": [
+            "OSCON",
+            "Discuss OSCON"
+        ],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/382",
+        "title": "OSCON Preview"
+    },
+    {
+        "date": "2016-04-12",
+        "ep": "383",
+        "guests": {
+            "will-braswell": {}
+        },
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [
+            "Perl",
+            "Professional Perl Programmer"
+        ],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/383",
+        "title": "The Future of Perl Performance"
+    },
+    {
+        "date": "2016-04-19",
+        "ep": "384",
+        "guests": {
+            "will-braswell": {}
+        },
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [
+            "RPerl",
+            "Perl 5 programming language",
+            "Restricted Perl",
+            "Revolutionary Perl"
+        ],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/384",
+        "title": "RPerl"
+    },
+    {
+        "date": "2016-04-26",
+        "ep": "385",
+        "guests": {
+            "maymay": {},
+            "rebecca-crane": {}
+        },
+        "hosts": {
+            "guillermo-amaral": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [
+            "Buoy",
+            "community"
+        ],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/385",
+        "title": "Buoy"
+    },
+    {
+        "date": "2016-05-03",
+        "ep": "386",
+        "guests": {
+            "david-gatti": {}
+        },
+        "hosts": {
+            "randal-schwartz": {},
+            "simon-phipps": {}
+        },
+        "keywords": [
+            "David Gatti",
+            "PHP",
+            "Blogger",
+            "CMS"
+        ],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/386",
+        "title": "David Gatti"
+    },
+    {
+        "date": "2016-05-10",
+        "ep": "387",
+        "guests": {
+            "mikeal-rogers": {}
+        },
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [
+            "Node.js ",
+            "JavaScript",
+            "Node.js Foundation"
+        ],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/387",
+        "title": "Node.js Update"
+    },
+    {
+        "date": "2016-05-17",
+        "ep": "388",
+        "guests": {
+            "jess-portnoy": {},
+            "zohar-babin": {}
+        },
+        "hosts": {
+            "randal-schwartz": {}
+        },
+        "keywords": [
+            "Kaltura",
+            "Platform for open source video"
+        ],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/388",
+        "title": "Kaltura Update"
+    },
+    {
+        "date": "2016-05-24",
+        "ep": "389",
+        "guests": {
+            "david-wheeler": {},
+            "emily-ratliff": {}
+        },
+        "hosts": {
+            "guillermo-amaral": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [
+            "Badge",
+            "FLOSS"
+        ],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/389",
+        "title": "Best Practices Badge"
+    },
+    {
+        "date": "2016-05-31",
+        "ep": "390",
+        "guests": {
+            "per-buer": {}
+        },
+        "hosts": {
+            "guillermo-amaral": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [
+            "Varnish Cache",
+            "HTTP"
+        ],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/390",
+        "title": "Varnish Cache"
+    },
+    {
+        "date": "2016-06-07",
+        "ep": "391",
+        "guests": {
+            "bill-appleton": {}
+        },
+        "hosts": {
+            "gareth-greenaway": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [
+            "DreamFactory",
+            "Database",
+            "API platform"
+        ],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/391",
+        "title": "DreamFactory"
+    },
+    {
+        "date": "2016-06-14",
+        "ep": "392",
+        "guests": {
+            "patrick-mcfadin": {}
+        },
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [
+            "Apache Cassandra"
+        ],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/392",
+        "title": "Apache Cassandra"
+    },
+    {
+        "date": "2016-06-21",
+        "ep": "393",
+        "guests": {
+            "jesus-m-gonzalez-barahona": {}
+        },
+        "hosts": {
+            "jonathan-bennett": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [
+            "Bitergia"
+        ],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/393",
+        "title": "Bitergia"
+    },
+    {
+        "date": "2016-06-28",
+        "ep": "394",
+        "hosts": {
+            "jonathan-bennett": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [
+            "Lisk",
+            "Max Kordek"
+        ],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/394",
+        "title": "Lisk"
+    },
+    {
+        "date": "2016-07-05",
+        "ep": "395",
+        "guests": {
+            "rob-eisenberg": {}
+        },
+        "hosts": {
+            "guillermo-amaral": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [
+            "Aurelia",
+            "Application",
+            "Developer Application"
+        ],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/395",
+        "title": "Aurelia"
+    },
+    {
+        "date": "2016-07-12",
+        "ep": "396",
+        "guests": {
+            "nicole-engard": {}
+        },
+        "hosts": {
+            "douglas-whitfield": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [
+            "Koha ILS",
+            "Libraries"
+        ],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/396",
+        "title": "Koha ILS"
+    },
+    {
+        "date": "2016-07-19",
+        "ep": "397",
+        "guests": {
+            "brandon-philips": {}
+        },
+        "hosts": {
+            "jonathan-bennett": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [
+            "CoreOS"
+        ],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/398",
+        "title": "CoreOS Update"
+    },
+    {
+        "date": "2016-08-09",
+        "ep": "398",
+        "guests": {
+            "mohit-bhatnagar": {}
+        },
+        "hosts": {
+            "aaron-newcomb": {},
+            "guillermo-amaral": {}
+        },
+        "keywords": [
+            "ClusterHQ",
+            "Application Development"
+        ],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/398",
+        "title": "ClusterHQ"
+    },
+    {
+        "date": "2016-08-16",
+        "ep": "399",
+        "hosts": {
+            "aaron-newcomb": {},
+            "guillermo-amaral": {},
+            "jonathan-bennett": {}
+        },
+        "keywords": [
+            "Hardware",
+            "Hardware Project"
+        ],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/399",
+        "title": "Open Hardware Project"
+    },
+    {
+        "date": "2016-08-23",
+        "ep": "400",
+        "guests": {
+            "frank-karlitschek": {}
+        },
+        "hosts": {
+            "aaron-newcomb": {},
+            "simon-phipps": {}
+        },
+        "keywords": [
+            "Nextcloud",
+            "File Sync & Share"
+        ],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/400",
+        "title": "Nextcloud"
+    },
+    {
+        "date": "2016-08-30",
+        "ep": "401",
+        "guests": {
+            "will-hayes": {}
+        },
+        "hosts": {
+            "aaron-newcomb": {},
+            "jonathan-bennett": {}
+        },
+        "keywords": [
+            "Lucidworks",
+            "Open Source Code"
+        ],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/401",
+        "title": "Lucidworks"
+    },
+    {
+        "date": "2016-09-06",
+        "ep": "402",
+        "hosts": {
+            "aaron-newcomb": {},
+            "jonathan-bennett": {}
+        },
+        "keywords": [
+            "Midokura",
+            "Network Virtualization"
+        ],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/402",
+        "title": "Midokura"
+    },
+    {
+        "date": "2016-09-13",
+        "ep": "403",
+        "guests": {
+            "colin-walters": {},
+            "josh-berkus": {}
+        },
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [
+            "Atomic umbrella",
+            "LDK",
+            "Linux",
+            "Docker",
+            "Kubernetes"
+        ],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/403",
+        "title": "Atomic Host"
+    },
+    {
+        "date": "2016-09-20",
+        "ep": "404",
+        "guests": {
+            "jared-smith": {}
+        },
+        "hosts": {
+            "jonathan-bennett": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [
+            "Capital",
+            "Open Source"
+        ],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/404",
+        "title": "Capital One Open Source"
+    },
+    {
+        "date": "2016-09-27",
+        "ep": "405",
+        "guests": {
+            "eric-schultz": {}
+        },
+        "hosts": {
+            "jonathan-bennett": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [
+            "PRPL",
+            "Foundation"
+        ],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/405",
+        "title": "THE PRPL FOUNDATION"
+    },
+    {
+        "date": "2016-10-05",
+        "ep": "406",
+        "guests": {
+            "ole-andre-vadla-ravnas": {}
+        },
+        "hosts": {
+            "guillermo-amaral": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [
+            "Frida"
+        ],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/406",
+        "title": "Frida"
+    },
+    {
+        "date": "2016-10-11",
+        "ep": "407",
+        "guests": {
+            "christoph-zimmermann": {}
+        },
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [
+            "Linux",
+            "BeLUG",
+            "Linux Presentation Day"
+        ],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/407",
+        "title": "Linux Presentation Day"
+    }
 ]

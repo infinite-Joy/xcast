@@ -1,4 +1,8 @@
 name:      Aaron Newcomb
 twitter:   aaronnewcomb
+<<<<<<< HEAD
 home:      http://thesourceshow.org/
+=======
+home:      http://thesourceshow.org
+>>>>>>> refs/remotes/szabgab/main
 country:   San Francisco, USA

@@ -1,1 +1,5 @@
 name:      Tim Hockin
+<<<<<<< HEAD
+=======
+github:    thockin
+>>>>>>> refs/remotes/szabgab/main
