@@ -9,10 +9,7 @@ import csv
 from jinja2 import Environment, PackageLoader
 
 if sys.version_info.major < 3:
-    print("This code requires Python 3.")
-    print("This is {}".format(sys.version))
-    exit()
-
+    exit("This code requires Python 3.\nThis is {}".format(sys.version))
 
 def main():
 
@@ -236,7 +233,7 @@ def read_people():
                 'hosting' : []
             }
         except Exception as e:
-            print("ERROR: {} in file {}".format(e, filename))
+            exit("ERROR: {} in file {}".format(e, filename))
 
     return people
 
@@ -257,8 +254,7 @@ def read_episodes(sources):
                     episodes.extend(new_episodes)
                     src['episodes'] = new_episodes
                 except json.decoder.JSONDecodeError as e:
-                    print("ERROR: Could not read in {}".format(file))
-                    print(e)
+                    exit("ERROR: Could not read in {} {}".format(file, e))
                     src['episodes'] = [] # let the rest of the code work
                     pass
     return episodes
