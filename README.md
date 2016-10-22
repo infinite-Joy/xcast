@@ -125,6 +125,17 @@ Other sources we might add
 ----------------------------
 * http://www.meta-cast.com/
 * http://www.angryweasel.com/ABTesting/
+* Start Here Ruby on Rails http://starthere.fm/category/rubyonrails   or http://starthere.fm/ ?
+* Start here Web development: http://starthere.fm/category/webdev
+* Lately in JavaScript podcast http://www.jsclasses.org/blog/category/podcast/
+* ReactJS https://itunes.apple.com/us/podcast/react-podcast/id995869265?mt=2
+* IBM Rational talks to you http://www-01.ibm.com/software/rational/podcasts/2014/index.html
+* Programming Throwdown https://itunes.apple.com/us/podcast/programming-throwdown/id427166321?mt=2
+* The Treehouse show https://itunes.apple.com/us/podcast/the-treehouse-show-hd/id623064192?mt=2
+* Android Devlopers Backstage https://itunes.apple.com/us/podcast/android-developers-backstage/id785545036?mt=2
+* Simple Programmer Podcast https://itunes.apple.com/us/podcast/simple-programmer-podcast/id998357224
+
+
 
 
 Process with command line Git client

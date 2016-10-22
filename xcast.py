@@ -245,6 +245,7 @@ def read_episodes(sources):
     for src in sources:
         print("Processing source {}".format(src['name']))
         file = 'data/' + src['name'] + '.json'
+        src['episodes'] = []
         if os.path.exists(file):
             with open(file) as fh:
                 try:
