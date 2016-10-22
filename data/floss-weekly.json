@@ -190,7 +190,6 @@
 	{
 		"ep" : "306",
 		"guests": {
-			"" : {}
 		},
 		"hosts" : {
 			"randal-schwartz" : {},
@@ -250,7 +249,6 @@
 	{
 		"ep" : "310",
 		"guests": {
-			"" : {}
 		},
 		"hosts" : {
 			"randal-schwartz" : {},
@@ -487,7 +485,7 @@
 			"randal-schwartz" : {},
 			"dan-lynch" : {}
 		},
-		"keywords": ["OSI", "The Open Source Initiative",],
+		"keywords": ["OSI", "The Open Source Initiative"],
 		"permalink": "https://twit.tv/shows/floss-weekly/episodes/326",
 		"title" : "The Open Source Initiative",
 		"date": "2015-02-25"
@@ -828,7 +826,7 @@
 	{
 		"ep" : "350",
 		"guests": {
-			"harlan-stenn" : {},
+			"harlan-stenn" : {}
 		},
 		"hosts" : {
 			"randal-schwartz" : {},
