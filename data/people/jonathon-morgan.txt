@@ -1,3 +1,5 @@
-name: Jonathon Morgan
-twitter: jonathonmorgan
-home: http://goodattheinternet.com/
+name:      Jonathon Morgan
+twitter:   jonathonmorgan
+github:    gati
+home:      http://goodattheinternet.com/
+country:   Austin, USA

@@ -116,6 +116,729 @@
         "permalink": "https://twit.tv/shows/floss-weekly/episodes/108",
         "title": "Henrique Bastos"
     },
+	{
+		"ep" : "301",
+		"guests": {
+			"arun-gupta" : {},
+			"simon-st-laurent" : {}
+		},
+		"hosts" : {
+			"randal-schwartz" : {}
+		},
+		"keywords": ["Oscon", "Event", "Children interested in computer"],
+		"permalink": "https://twit.tv/shows/floss-weekly/episodes/301",
+		"title" : "OSCON Kids Day",
+		"date": "2014-07-16"
+	},
+	{
+		"ep" : "302",
+		"guests": {
+			"dr-anil-madhavapeddy" : {}
+		},
+		"hosts" : {
+			"randal-schwartz" : {},
+			"simon-phipps" : {}
+		},
+		"keywords": ["Mirage", "Mirage OS is a library operating system"],
+		"permalink": "https://twit.tv/shows/floss-weekly/episodes/302",
+		"title" : "Open Mirage",
+		"date": "2014-07-23"
+	},
+	{
+		"ep" : "303",
+		"guests": {
+			"manuel-araoz" : {},
+			"ryan-x-charles" : {}
+		},
+		"hosts" : {
+			"randal-schwartz" : {},
+			"dan-lynch" : {}
+		},
+		"keywords": ["Bitcore", "Bitcoin network", "C++", "JavaScript", "ECIES"],
+		"permalink": "https://twit.tv/shows/floss-weekly/episodes/303",
+		"title" : "Bitcore",
+		"date": "2014-07-30"
+	},
+	{
+		"ep" : "304",
+		"guests": {
+			"bryan-smith" : {}
+		},
+		"hosts" : {
+			"randal-schwartz" : {},
+			"gareth-greenaway" : {}
+		},
+		"keywords": ["Fossetcon", "Software Expo and Technology Conference"],
+		"permalink": "https://twit.tv/shows/floss-weekly/episodes/304",
+		"title" : "Fossetcon",
+		"date": "2014-08-13"
+	},
+	{
+		"ep" : "305",
+		"guests": {
+			"jodok-batlogg" : {}
+		},
+		"hosts" : {
+			"randal-schwartz" : {},
+			"aaron-newcomb" : {}
+		},
+		"keywords": ["Create Data", "SQL", "Crate Data is a distributed SQL data store"],
+		"permalink": "https://twit.tv/shows/floss-weekly/episodes/305",
+		"title" : "Create Data",
+		"date": "2014-08-20"
+	},
+	{
+		"ep" : "306",
+		"guests": {
+			"" : {}
+		},
+		"hosts" : {
+			"randal-schwartz" : {},
+			"aaron-newcomb" : {},
+			"dan-lynch" : {},
+			"hadley-wickham" : {}
+		},
+		"keywords": ["RS Studio", "IDE"],
+		"permalink": "https://twit.tv/shows/floss-weekly/episodes/306",
+		"title" : "RS Studio",
+		"date": "2014-08-28"
+	},
+	{
+		"ep" : "307",
+		"guests": {
+			"hugh-howey" : {}
+		},
+		"hosts" : {
+			"randal-schwartz" : {},
+			"guillermo-amaral" : {},
+			"gareth-greenaway" : {},
+			"joe-brockmeier" : {}
+		},
+		"keywords": ["Self-Publishing", "Writing process"],
+		"permalink": "https://twit.tv/shows/floss-weekly/episodes/307",
+		"title" : "Self-Publishing",
+		"date": "2014-09-03"
+	},
+	{
+		"ep" : "308",
+		"guests": {
+			"jonathon-morgan" : {}
+		},
+		"hosts" : {
+			"randal-schwartz" : {},
+			"dan-lynch" : {}
+		},
+		"keywords": ["CrisisNET", "Relevant data"],
+		"permalink": "https://twit.tv/shows/floss-weekly/episodes/308",
+		"title" : "CrisisNET",
+		"date": "2014-09-10"
+	},
+	{
+		"ep" : "309",
+		"guests": {
+			"david-e-wheeler" : {}
+		},
+		"hosts" : {
+			"aaron-newcomb" : {},
+			"guillermo-amaral" : {}
+		},
+		"keywords": ["Sqitch", "Database", "Datatbase management Application"],
+		"permalink": "https://twit.tv/shows/floss-weekly/episodes/309",
+		"title" : "Sqitch",
+		"date": "2014-09-17"
+	},
+	{
+		"ep" : "310",
+		"guests": {
+			"" : {}
+		},
+		"hosts" : {
+			"randal-schwartz" : {},
+			"gareth-greenaway" : {},
+			"guillermo-amaral" : {}
+		},
+		"keywords": ["Questions and Answare"],
+		"permalink": "https://twit.tv/shows/floss-weekly/episodes/310",
+		"title" : "Ask Randal Anything",
+		"date": "2014-10-01"
+	},
+	{
+		"ep" : "311",
+		"guests": {
+			"andrei-alexandrescu" : {},
+			"walter-bright" : {}
+		},
+		"hosts" : {
+			"randal-schwartz" : {},
+			"dan-lynch" : {}
+		},
+		"keywords": ["D Language", "Programming", "D is Programming Language"],
+		"permalink": "https://twit.tv/shows/floss-weekly/episodes/311",
+		"title" : "The D Language",
+		"date": "2014-10-14"
+	},
+	{
+		"ep" : "312",
+		"guests": {
+			"kai-kreuzer" : {}
+		},
+		"hosts" : {
+			"randal-schwartz" : {},
+			"aaron-newcomb" : {},
+			"guillermo-amaral" : {}
+		},
+		"keywords": ["OpenHAB", "Open source automation software"],
+		"permalink": "https://twit.tv/shows/floss-weekly/episodes/312",
+		"title" : "OpenHAB",
+		"date": "2014-10-15"
+	},
+	{
+		"ep" : "313",
+		"guests": {
+			"artur-ventura" : {}
+		},
+		"hosts" : {
+			"randal-schwartz" : {},
+			"simon-phipps" : {}
+		},
+		"keywords": ["FenixEdu", "Software platform"],
+		"permalink": "https://twit.tv/shows/floss-weekly/episodes/313",
+		"title" : "FenixEdu",
+		"date": "2014-10-22"
+	},
+	{
+		"ep" : "314",
+		"guests": {
+			"brandon-philips" : {}
+		},
+		"hosts" : {
+			"randal-schwartz" : {},
+			"guillermo-amaral" : {}
+		},
+		"keywords": ["CoreOS", "Linux", "Linux for Massive Server Deployments"],
+		"permalink": "https://twit.tv/shows/floss-weekly/episodes/314",
+		"title" : "CoreOS",
+		"date": "2014-10-29"
+	},
+	{
+		"ep" : "315",
+		"guests": {
+			"slava-akhmechet" : {}
+		},
+		"hosts" : {
+			"aaron-newcomb" : {},
+			"gareth-greenaway" : {}
+		},
+		"keywords": ["RethinkDB", "web technologies", "Open-source Distributed Database"],
+		"permalink": "https://twit.tv/shows/floss-weekly/episodes/315",
+		"title" : "RethinkDB",
+		"date": "2014-11-05"
+	},
+	{
+		"ep" : "316",
+		"guests": {
+			"emily-richards" : {}
+		},
+		"hosts" : {
+			"randal-schwartz" : {},
+			"dan-lynch" : {}
+		},
+		"keywords": ["ccMixter", "HTTP", "ccMixter is open and free for Musicians and Creators"],
+		"permalink": "https://twit.tv/shows/floss-weekly/episodes/316",
+		"title" : "ccMixter",
+		"date": "2014-11-19"
+	},
+	{
+		"ep" : "317",
+		"guests": {
+			"will-gorman" : {}
+		},
+		"hosts" : {
+			"randal-schwartz" : {},
+			"aaron-newcomb" : {}
+		},
+		"keywords": ["Pentaho", "Business analytics", "Big data integration"],
+		"permalink": "https://twit.tv/shows/floss-weekly/episodes/317",
+		"title" : "Pentaho",
+		"date": "2014-11-26"
+	},
+	{
+		"ep" : "318",
+		"guests": {
+			"jeff-kaufman" : {}
+		},
+		"hosts" : {
+			"simon-phipps" : {},
+			"dan-lynch" : {}
+		},
+		"keywords": ["Mod_pagespeed", "JavaScript", "CSS", "Workflow"],
+		"permalink": "https://twit.tv/shows/floss-weekly/episodes/318",
+		"title" : "Mod_pagespeed",
+		"date": "2014-12-10"
+	},
+	{
+		"ep" : "319",
+		"guests": {
+			"mathew-miller" : {}
+		},
+		"hosts" : {
+			"randal-schwartz" : {},
+			"joe-brockmeier" : {}
+		},
+		"keywords": ["Fedora 21", "Linux", "Operating system"],
+		"permalink": "https://twit.tv/shows/floss-weekly/episodes/319",
+		"title" : "Fedora 21",
+		"date": "2014-12-17"
+	},
+	{
+		"ep" : "320",
+		"guests": {
+			"richard-hipp" : {}
+		},
+		"hosts" : {
+			"randal-schwartz" : {},
+			"guillermo-amaral" : {}
+		},
+		"keywords": ["Fossil", "DVCS", "Distributed Version Control System", "Cross-platform", "Built-in Wik"],
+		"permalink": "https://twit.tv/shows/floss-weekly/episodes/320",
+		"title" : "Fossil",
+		"date": "2015-01-07"
+	},
+	{
+		"ep" : "321",
+		"guests": {
+			"andrew-roland" : {}
+		},
+		"hosts" : {
+			"randal-schwartz" : {},
+			"gareth-greenaway" : {}
+		},
+		"keywords": ["Marpa", "Algorithm", "Replace"],
+		"permalink": "https://twit.tv/shows/floss-weekly/episodes/321",
+		"title" : "Marpa",
+		"date": "2015-01-14"
+	},
+	{
+		"ep" : "322",
+		"guests": {
+			"aaron-seigo" : {}
+		},
+		"hosts" : {
+			"randal-schwartz" : {},
+			"aaron-newcomb" : {},
+			"joe-brockmeier" : {},
+			"guillermo-amaral" : {}
+		},
+		"keywords": ["Kolab", "Personal Information Management for Deployments"],
+		"permalink": "https://twit.tv/shows/floss-weekly/episodes/322",
+		"title" : "Kolab",
+		"date": "2015-01-21"
+	},
+	{
+		"ep" : "323",
+		"guests": {
+			"avni-khatri" : {}
+		},
+		"hosts" : {
+			"aaron-newcomb" : {},
+			"randal-schwartz" : {},
+			"gareth-greenaway" : {}
+		},
+		"keywords": ["Computers", "Children impove"],
+		"permalink": "https://twit.tv/shows/floss-weekly/episodes/323",
+		"title" : "Kids On Computers",
+		"date": "2015-01-28"
+	},
+	{
+		"ep" : "324",
+		"guests": {
+			"boudewijn-rempt" : {}
+		},
+		"hosts" : {
+			"randal-schwartz" : {},
+			"aaron-newcomb" : {}
+		},
+		"keywords": ["Krita", "CMYK", "Illustration application", "Krita is a Digital painting application"],
+		"permalink": "https://twit.tv/shows/floss-weekly/episodes/324",
+		"title" : "Krita",
+		"date": "2015-02-04"
+	},
+	{
+		"ep" : "325",
+		"guests": {
+			"andrea-antonello" : {}
+		},
+		"hosts" : {
+			"randal-schwartz" : {},
+			"dan-lynch" : {}
+		},
+		"keywords": ["Geopaparazzi", "Survey", "Geologic Survey"],
+		"permalink": "https://twit.tv/shows/floss-weekly/episodes/325",
+		"title" : "Geopaparazzi",
+		"date": "2015-02-11"
+	},
+	{
+		"ep" : "326",
+		"guests": {
+			"patrick-masson" : {},
+			"simon-phipps" : {}
+		},
+		"hosts" : {
+			"randal-schwartz" : {},
+			"dan-lynch" : {}
+		},
+		"keywords": ["OSI", "The Open Source Initiative",],
+		"permalink": "https://twit.tv/shows/floss-weekly/episodes/326",
+		"title" : "The Open Source Initiative",
+		"date": "2015-02-25"
+	},
+	{
+		"ep" : "327",
+		"guests": {
+			"aaron-titus" : {}
+		},
+		"hosts" : {
+			"randal-schwartz" : {},
+			"aaron-newcomb" : {}
+		},
+		"keywords": ["Cleanup Crisis", "Software", "Design", "Crisis Cleanup is software"],
+		"permalink": "https://twit.tv/shows/floss-weekly/episodes/327",
+		"title" : "Cleanup Crisis",
+		"date": "2015-03-04"
+	},
+	{
+		"ep" : "328",
+		"guests": {
+			"evan-powell" : {}
+		},
+		"hosts" : {
+			"randal-schwartz" : {},
+			"dan-lynch" : {}
+		},
+		"keywords": ["StackStorm", "Software", "Operations automation software"],
+		"permalink": "https://twit.tv/shows/floss-weekly/episodes/328",
+		"title" : "StackStorm",
+		"date": "2015-03-11"
+	},
+	{
+		"ep" : "329",
+		"guests": {
+			"simon-bennetts" : {}
+		},
+		"hosts" : {
+			"randal-schwartz" : {},
+			"aaron-newcomb" : {},
+			"simon-phipps" : {},
+			"dan-lynch" : {}
+		},
+		"keywords": ["OWASP ZAP", "Vulnerabilities", "Finding vulnerabilities"],
+		"permalink": "https://twit.tv/shows/floss-weekly/episodes/329",
+		"title" : "OWASP ZAP",
+		"date": "2013-03-18"
+	},
+	{
+		"ep" : "330",
+		"guests": {
+			"solomon-hykes" : {}
+		},
+		"hosts" : {
+			"randal-schwartz" : {},
+			"gareth-greenaway" : {}
+		},
+		"keywords": ["Docker", "Ecosystem", "Open platform for developers"],
+		"permalink": "https://twit.tv/shows/floss-weekly/episodes/330",
+		"title" : "Docker",
+		"date": "2015-04-01"
+	},
+	{
+		"ep" : "331",
+		"guests": {
+			"randi-harper" : {}
+		},
+		"hosts" : {
+			"randal-schwartz" : {},
+			"dan-lynch" : {}
+		},
+		"keywords": ["OAPI", " Online Abuse Prevention Initiative", "OAPI is a nonprofit organization"],
+		"permalink": "https://twit.tv/shows/floss-weekly/episodes/331",
+		"title" : "OAPI",
+		"date": "2015-04-08"
+	},
+	{
+		"ep" : "332",
+		"guests": {
+			"ramiro-neves" : {},
+			"ricardo-miranda" : {}
+		},
+		"hosts" : {
+			"randal-schwartz" : {},
+			"guillermo-amaral" : {}
+		},
+		"keywords": ["MOHID", "MARETEC", "Water modelling system"],
+		"permalink": "https://twit.tv/shows/floss-weekly/episodes/332",
+		"title" : "MOHID",
+		"date": "2015-04-15"
+	},
+	{
+		"ep" : "333",
+		"guests": {
+			"tim-pritlove" : {}
+		},
+		"hosts" : {
+			"randal-schwartz" : {},
+			"dan-lynch" : {}
+		},
+		"keywords": ["Podlove", "Podcast", "Infrastructure for podcasting"],
+		"permalink": "https://twit.tv/shows/floss-weekly/episodes/333",
+		"title" : "Podlove",
+		"date": "2015-04-22"
+	},
+	{
+		"ep" : "334",
+		"guests": {
+			"kirill-kolyshkin" : {},
+			"pavel-emelyanov" : {}
+		},
+		"hosts" : {
+			"randal-schwartz" : {},
+			"gareth-greenaway" : {}
+		},
+		"keywords": ["CRIU", "Linux", "Implement checkpoint"],
+		"permalink": "https://twit.tv/shows/floss-weekly/episodes/334",
+		"title" : "CRIU",
+		"date": "2015-04-29"
+	},
+	{
+		"ep" : "335",
+		"guests": {
+			"pablo-ruiz" : {}
+		},
+		"hosts" : {
+			"randal-schwartz" : {},
+			"dan-lynch" : {}
+		},
+		"keywords": ["Taiga.io", "Taiga is a project management"],
+		"permalink": "https://twit.tv/shows/floss-weekly/episodes/335",
+		"title" : "Taiga.io",
+		"date": "2015-05-06"
+	},
+	{
+		"ep" : "336",
+		"guests": {
+			"mike-meyer" : {},
+			"geoffrey-hausheer" : {}
+		},
+		"hosts" : {
+			"randal-schwartz" : {},
+			"guillermo-amaral" : {}
+		},
+		"keywords": ["DeviationTx", "RC transmitters"],
+		"permalink": "https://twit.tv/shows/floss-weekly/episodes/336",
+		"title" : "DeviationTx",
+		"date": "2015-05-13"
+	},
+	{
+		"ep" : "337",
+		"guests": {
+			"stephen-pair" : {},
+			"matias-alejo-garcia" : {}
+		},
+		"hosts" : {
+			"randal-schwartz" : {},
+			"simon-phipps" : {}
+		},
+		"keywords": ["Copay", "Bitcoin", "Multi-signature"],
+		"permalink": "https://twit.tv/shows/floss-weekly/episodes/337",
+		"title" : "Copay",
+		"date": "2015-05-20"
+	},
+	{
+		"ep" : "338",
+		"guests": {
+			"andrew-dixon" : {},
+			"gert-franz" : {}
+		},
+		"hosts" : {
+			"randal-schwartz" : {},
+			"dan-lynch" : {}
+		},
+		"keywords": ["Lucee", "JVM", "Dynamic scripting language"],
+		"permalink": "https://twit.tv/shows/floss-weekly/episodes/338",
+		"title" : "Lucee",
+		"date": "2015-05-27"
+	},
+	{
+		"ep" : "339",
+		"guests": {
+			"ilya-dmitrichenko" : {},
+			"bryan-boreham" : {}
+		},
+		"hosts" : {
+			"randal-schwartz" : {},
+			"dan-lynch" : {},
+			"gareth-greenaway" : {}
+		},
+		"keywords": ["Weave", "Run application anywhere with weave"],
+		"permalink": "https://twit.tv/shows/floss-weekly/episodes/339",
+		"title" : "Weave",
+		"date": "2015-06-03"
+	},
+	{
+		"ep" : "340",
+		"guests": {
+			"mounir-idrassi" : {}
+		},
+		"hosts" : {
+			"randal-schwartz" : {},
+			"aaron-newcomb" : {}
+		},
+		"keywords": ["Veracrypt", "TrueCrypt7.1a", "IDRIX", "Free disk encryption Software"],
+		"permalink": "https://twit.tv/shows/floss-weekly/episodes/340",
+		"title" : "VeraCrypt",
+		"date": "2015-06-10"
+	},
+	{
+		"ep" : "341",
+		"guests": {
+			"pierros-papadeas" : {}
+		},
+		"hosts" : {
+			"randal-schwartz" : {},
+			"guillermo-amaral" : {}
+		},
+		"keywords": ["SatNOGs", "Modularity", "Affordable tools and resources"],
+		"permalink": "https://twit.tv/shows/floss-weekly/episodes/341",
+		"title" : "SatNOGs",
+		"date": "2015-06-17"
+	},
+	{
+		"ep" : "342",
+		"guests": {
+			"joey-krug" : {},
+			"dr-jack-peterson" : {}
+		},
+		"hosts" : {
+			"randal-schwartz" : {},
+			"gareth-greenaway" : {}
+		},
+		"keywords": ["Augur", "Create a prediction market"],
+		"permalink": "https://twit.tv/shows/floss-weekly/episodes/342",
+		"title" : "Augur",
+		"date": "2016-06-24"
+	},
+	{
+		"ep" : "343",
+		"guests": {
+			"anthony-minessale" : {},
+			"michael-jerris" : {}
+		},
+		"hosts" : {
+			"randal-schwartz" : {}
+		},
+		"keywords": ["FreeSWITCH", "Media", "Audio", "Video"],
+		"permalink": "https://twit.tv/shows/floss-weekly/episodes/343",
+		"title" : "FreeSWITCH",
+		"date": "2015-07-01"
+	},
+	{
+		"ep" : "344",
+		"guests": {
+			"rachel-roumeliotis" : {}
+		},
+		"hosts" : {
+			"aaron-newcomb" : {},
+			"guillermo-amaral" : {}
+		},
+		"keywords": ["Oscon", "Oscon Preview", "software", "Open Source OSCON"],
+		"permalink": "https://twit.tv/shows/floss-weekly/episodes/344",
+		"title" : "Oscon Preview",
+		"date": "2015-07-08"
+	},
+	{
+		"ep" : "345",
+		"guests": {
+			"dmitri-popov" : {}
+		},
+		"hosts" : {
+			"randal-schwartz" : {},
+			"dan-lynch" : {}
+		},
+		"keywords": ["Digikam", "Linux", "OS X"],
+		"permalink": "https://twit.tv/shows/floss-weekly/episodes/345",
+		"title" : "Digikam",
+		"date": "2015-07-15"
+	},
+	{
+		"ep" : "346",
+		"guests": {
+			"heather-mckelvey" : {}
+		},
+		"hosts" : {
+			"randal-schwartz" : {},
+			"simon-phipps" : {}
+		},
+		"keywords": ["Basho Update", "OSCON", "NOSQL", "open source NOSQL"],
+		"permalink": "https://twit.tv/shows/floss-weekly/episodes/346",
+		"title" : "Basho Update",
+		"date": "2015-07-22"
+	},
+	{
+		"ep" : "347",
+		"guests": {
+			"bear" : {},
+			"peter-saint-andre" : {}
+		},
+		"hosts" : {
+			"randal-schwartz" : {},
+			"guillermo-amaral" : {}
+		},
+		"keywords": ["Talky", "Software", "Video Chat", "open source softwar"],
+		"permalink": "https://twit.tv/shows/floss-weekly/episodes/347",
+		"title" : "Talky",
+		"date": "2015-07-29"
+	},
+	{
+		"ep" : "348",
+		"guests": {
+			"simon-anderson" : {}
+		},
+		"hosts" : {
+			"aaron-newcomb" : {},
+			"dan-lynch" : {}
+		},
+		"keywords": ["Openstack"],
+		"permalink": "https://twit.tv/shows/floss-weekly/episodes/348",
+		"title" : "Openstack Turns 5 Years Old",
+		"date": "2015-08-05"
+	},
+	{
+		"ep" : "349",
+		"guests": {
+			"brandon-philips" : {}
+		},
+		"hosts" : {
+			"aaron-newcomb" : {},
+			"guillermo-amaral" : {}
+		},
+		"keywords": ["Tectonic", "Linux", "Open source architecture for Linux containers"],
+		"permalink": "https://twit.tv/shows/floss-weekly/episodes/349",
+		"title" : "Tectonic",
+		"date": "2015-08-12"
+	},
+	{
+		"ep" : "350",
+		"guests": {
+			"harlan-stenn" : {},
+		},
+		"hosts" : {
+			"randal-schwartz" : {},
+			"dan-lynch" : {}
+		},
+		"keywords": ["Ntp", "Unix", "NTP codebase converted to GNU Autoconf"],
+		"permalink": "https://twit.tv/shows/floss-weekly/episodes/350",
+		"title" : "Ntp",
+		"date": "2015-08-19"
+	},
     {
         "date": "2015-08-26",
         "ep": "351",

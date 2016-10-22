@@ -1,4 +1,5 @@
-name: Randi Harper
-github: freebsdgirl
-twitter: freebsdgirl
-home: https://blog.randi.io/
+name:      Randi Harper
+twitter:   freebsdgirl
+github:    freebsdgirl
+home:      https://keybase.io/freebsdgirl
+country:   Oakland, CA, USA
