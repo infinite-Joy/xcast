@@ -92,6 +92,8 @@ Site layout
 
 TODO (or maybe not?):
 -----------------------
+* fetch and fill data about floss weekly
+* fetch and fill data about 
 
 * Javascript based search option with look-ahead.
 
