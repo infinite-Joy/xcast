@@ -167,7 +167,9 @@ Instruction on Windows
 ----------------------
 * Install Python 3.x.x from https://www.python.org/downloads/windows/
 * Open the command window (Start/Run 'cmd')
-* Type in ```python --version``` to check if the installation worked as expected.
+* Type in ```python --version``` to check if the installation worked as expected. It should say something like "Python 3.5.2"
+  If it says "" then you need to configure the PATH environment variable to include the directory of python.exe
+
 * Type in ```pip install jinja2```
 * cd to the xcast/ directory 
 * Type ```python xcast.py --html```   If there is an error in the files, it will complain.
