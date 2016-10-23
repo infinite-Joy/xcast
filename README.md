@@ -163,6 +163,19 @@ If you'd like to check if the files work well together type in
 
 
 
+Instruction on Windows
+----------------------
+* Install Python 3.x.x from https://www.python.org/downloads/windows/
+* Open the command window (Start/Run 'cmd')
+* Type in ```python --version``` to check if the installation worked as expected.
+* Type in ```pip install jinja2```
+* cd to the xcast/ directory 
+* Type ```python xcast.py --html```   If there is an error in the files, it will complain.
+* If everything works fine the web site is generated in the html/ directory.
+* Run ```python server.py``` then go to your broser and visit http://127.0.0.1:8000/  The updated site should be there.
+
+
+
 
 
 
