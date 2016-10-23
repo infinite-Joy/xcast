@@ -2,15 +2,22 @@ from datetime import datetime
 import scrapy
 import re
 
-# scrapy runspider --nolog fetch.py
+# scrapy runspider --nolog fetch_floss_weekly.py -a start=23
 
 class QuotesSpider(scrapy.Spider):
     name = "quotes"
-    start_urls = [
-    ]
+    # read data/floss-weekly.json to get the list of already parsed 
 
-    for ep in range(250, 253):
-        start_urls.append('https://twit.tv/shows/floss-weekly/episodes/' + str(ep))
+    def start_requests(self):
+        #print(self)
+        start = int(getattr(self, 'start', 1))
+        end = int(getattr(self, 'end', start+1))
+        
+        #print(start, end)
+        for ep in range(start, end):
+            url = 'https://twit.tv/shows/floss-weekly/episodes/' + str(ep)
+            yield scrapy.Request(url, self.parse)
+
 
     def parse(self, response):
         data = {
