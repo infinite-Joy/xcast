@@ -1,5 +1,6 @@
 from datetime import datetime
 import os
+import json
 import scrapy
 import re
 
@@ -8,6 +9,10 @@ import re
 class FlossWeeklySpider(scrapy.Spider):
     name = "floss-weekly"
     # read data/floss-weekly.json to get the list of already parsed 
+    filename = 'data/floss-weekly.json'
+    with open(filename) as fh:
+        episodes = json.load(fh)
+
 
     def start_requests(self):
         #print(self)
@@ -15,9 +20,11 @@ class FlossWeeklySpider(scrapy.Spider):
         end = int(getattr(self, 'end', start+1))
         
         #print(start, end)
-        for ep in range(start, end):
-            url = 'https://twit.tv/shows/floss-weekly/episodes/' + str(ep)
-            yield scrapy.Request(url, self.parse)
+        collected = [x['ep'] for x in FlossWeeklySpider.episodes]
+        for ep in [str(x) for x in range(start, end)]:
+            if ep not in collected:
+                url = 'https://twit.tv/shows/floss-weekly/episodes/' + ep
+                yield scrapy.Request(url, self.parse)
 
 
     def parse(self, response):
@@ -43,12 +50,14 @@ class FlossWeeklySpider(scrapy.Spider):
         #hosts_div = response.css('div.hosts')
         #host_names = hosts_div.css('a::text')
         host_names = response.css('div.hosts').css('a::text').extract()
-        for h in host_names:
-            handle = re.sub(r'\s+', '-', h.lower())
+        for name in host_names:
+            handle = re.sub(r'\s+', '-', name.lower())
             if re.search('^[\w-]+$', handle):
                 person_file = 'data/people/' + handle + '.txt'
                 if not os.path.exists(person_file):
-                    print('Create {}'.format(person_file))
+                    print('Creating {}'.format(person_file))
+                    with open(person_file, 'w') as fh:
+                        fh.write('name: {}\n'.format(name))
                 #data['hosts'].append(handle)
                 data['hosts'][handle] = {}
             else:
@@ -58,5 +67,10 @@ class FlossWeeklySpider(scrapy.Spider):
             data['ep'] = m.group(1)
             data['title'] = m.group(2)
         print(data)
+        FlossWeeklySpider.episodes.append(data)
+        FlossWeeklySpider.episodes.sort(key=lambda x: int(x['ep']) )
+        with open(FlossWeeklySpider.filename, 'w') as fh:
+            json.dump(FlossWeeklySpider.episodes, fh, sort_keys=True, indent=4, separators=(',', ': '))
+
 
 # vim: expandtab
