@@ -3600,6 +3600,18 @@
         "title": "Turnkey Linux"
     },
     {
+        "date": "2014-07-09",
+        "ep": "300",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/300",
+        "title": "The Big 300"
+    },
+    {
         "date": "2014-07-16",
         "ep": "301",
         "guests": {
@@ -5511,5 +5523,17 @@
         ],
         "permalink": "https://twit.tv/shows/floss-weekly/episodes/407",
         "title": "Linux Presentation Day"
+    },
+    {
+        "date": "2016-10-18",
+        "ep": "408",
+        "guests": {},
+        "hosts": {
+            "jonathan-bennett": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/408",
+        "title": "Interactive Fiction"
     }
 ]
