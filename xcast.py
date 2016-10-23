@@ -18,7 +18,6 @@ def main():
     parser.add_argument('--html', help = 'Generate HTML', action='store_true')
     parser.add_argument('--check', help = 'Check the RSS feed', action='store_true')
     parser.add_argument('--source', help = 'Check the RSS feed of given source')
-    parser.add_argument('--scrape', help = 'Scrape data from the web pages of the give feed')
     args = parser.parse_args()
 
 
@@ -28,12 +27,6 @@ def main():
     if args.list:
         for s in sources:
             print('{:20} {}'.format(s.get('name', ''), s.get('title', '')))
-    elif args.scrape:
-        if args.scrape == 'floss-weekly':
-            ep = '408'
-            url = 'https://twit.tv/shows/floss-weekly/episodes/' + ep
-
-            
     elif args.source:
         source = list(filter(lambda x: x['name'] == args.source, sources))
         if not source:
