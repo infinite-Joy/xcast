@@ -272,5 +272,22 @@
             "web"
         ],
         "title": "Jan Henning Thorsen and Marcus Ramberg about Convos, the web-based IRC client"
+    },
+    {
+        "date": "2016-10-21",
+        "ep": "16",
+        "guests": {
+            "moyinoluwa-adeyemi": {}
+        },
+        "hosts": {
+            "gabor-szabo": {}
+        },
+        "permalink": "https://code-maven.com/cmos-17-moyinoluwa-adeyemi",
+        "tags": [
+			"Yoruba",
+			"Face recognition",
+            "Android"
+        ],
+        "title": "Moyinoluwa Adeyemi creating Android Watch in Yorùbá"
     }
 ]
