@@ -1,11 +1,12 @@
 from datetime import datetime
+import os
 import scrapy
 import re
 
 # scrapy runspider --nolog fetch_floss_weekly.py -a start=23
 
-class QuotesSpider(scrapy.Spider):
-    name = "quotes"
+class FlossWeeklySpider(scrapy.Spider):
+    name = "floss-weekly"
     # read data/floss-weekly.json to get the list of already parsed 
 
     def start_requests(self):
@@ -38,6 +39,21 @@ class QuotesSpider(scrapy.Spider):
         data['date'] = dt.strftime('%Y-%m-%d')
         m = re.search(r'FLOSS Weekly (\d+)\s+(.*?)\s+\| TWiT', full_title)
         #m = re.search(r'FLOSS Weekly (\d+)\s+(.*)', full_title)
+
+        #hosts_div = response.css('div.hosts')
+        #host_names = hosts_div.css('a::text')
+        host_names = response.css('div.hosts').css('a::text').extract()
+        for h in host_names:
+            handle = re.sub(r'\s+', '-', h.lower())
+            if re.search('^[\w-]+$', handle):
+                person_file = 'data/people/' + handle + '.txt'
+                if not os.path.exists(person_file):
+                    print('Create {}'.format(person_file))
+                #data['hosts'].append(handle)
+                data['hosts'][handle] = {}
+            else:
+                print("WARN Invalid character in name of {}".format(h))
+        #print(host_names)
         if m:
             data['ep'] = m.group(1)
             data['title'] = m.group(2)
