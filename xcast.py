@@ -105,14 +105,18 @@ def main():
                     if h not in people:
                         exit("ERROR: '{}' is not in the list of people".format(h))
                     people[h]['hosting'].append(e)
-        generate_pages(sources, people, tags)
+        generate_pages(sources, people, tags, episodes)
     else:
         parser.print_help()
 
-def generate_pages(sources, people, tags):
+def generate_pages(sources, people, tags, episodes):
     env = Environment(loader=PackageLoader('xcast', 'templates'))
 
     search = {}
+
+    for e in episodes:
+        search[ e['title'] + ' (ext)' ] = e['permalink']
+
     person_template = env.get_template('person.html')
     if not os.path.exists('html/p/'):
         os.mkdir('html/p/')
@@ -135,7 +139,7 @@ def generate_pages(sources, people, tags):
     if not os.path.exists('html/s/'):
         os.mkdir('html/s/')
     for s in sources:
-    #    #print(s)
+        search[ s['title'] ] = '/s/' + s['name'];
         with open('html/s/' + s['name'], 'w') as fh:
             fh.write(source_template.render(
                 source = s,
@@ -147,6 +151,7 @@ def generate_pages(sources, people, tags):
     if not os.path.exists('html/t/'):
         os.mkdir('html/t/')
     for t in tags:
+        search[ tags[t]['tag'] ] = '/t/' + t;
         with open('html/t/' + t, 'w') as fh:
             #tags[t]['path'] = t
             fh.write(tag_template.render(
