@@ -112,18 +112,23 @@ def main():
 def generate_pages(sources, people, tags):
     env = Environment(loader=PackageLoader('xcast', 'templates'))
 
+    search = {}
     person_template = env.get_template('person.html')
     if not os.path.exists('html/p/'):
         os.mkdir('html/p/')
     for p in people.keys():
         people[p]['episodes'].sort(key=lambda x : x['date'], reverse=True)
         people[p]['hosting'].sort(key=lambda x : x['date'], reverse=True)
-        with open('html/p/' + p, 'w') as fh:
+        name = people[p]['info']['name']
+        path = '/p/' + p
+        search[name] = path
+
+        with open('html' + path, 'w') as fh:
             fh.write(person_template.render(
                 id     = p,
                 person = people[p],
                 h1     = people[p]['info']['name'],
-                title  = 'Podcasts of and interviewes with {}'.format(people[p]['info']['name']),
+                title  = 'Podcasts of and interviews with {}'.format(people[p]['info']['name']),
             ))
 
     source_template = env.get_template('source.html')
@@ -200,6 +205,8 @@ def generate_pages(sources, people, tags):
             people = people,
             people_ids = sorted(people.keys()),
         ))
+    with open('html/search.json', 'w') as fh:
+        json.dump(search, fh)
 
 
 
