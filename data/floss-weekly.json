@@ -1,5 +1,245 @@
 [
     {
+        "date": "2006-04-07",
+        "ep": "1",
+        "guests": {},
+        "hosts": {
+            "chris-dibona": {},
+            "leo-laporte": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/1",
+        "title": "Introducing Chris DiBona"
+    },
+    {
+        "date": "2006-04-14",
+        "ep": "2",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/2",
+        "title": "Ben Goodger"
+    },
+    {
+        "date": "2006-04-22",
+        "ep": "3",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/3",
+        "title": "CmdrTaco of Slashdot"
+    },
+    {
+        "date": "2006-05-02",
+        "ep": "4",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/4",
+        "title": "chromatic"
+    },
+    {
+        "date": "2006-05-11",
+        "ep": "5",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/5",
+        "title": "Miguel de Icaza"
+    },
+    {
+        "date": "2006-05-19",
+        "ep": "6",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/6",
+        "title": "Larry Augustin"
+    },
+    {
+        "date": "2006-05-26",
+        "ep": "7",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/7",
+        "title": "Wikipedia's Jimmy Wales"
+    },
+    {
+        "date": "2006-06-16",
+        "ep": "8",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/8",
+        "title": "Ryan Gordon"
+    },
+    {
+        "date": "2006-07-14",
+        "ep": "9",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/9",
+        "title": "Randal L. Schwartz"
+    },
+    {
+        "date": "2006-07-21",
+        "ep": "10",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/10",
+        "title": "Who Mos'? Hemos!"
+    },
+    {
+        "date": "2006-08-04",
+        "ep": "11",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/11",
+        "title": "Guido van Rossum"
+    },
+    {
+        "date": "2006-08-11",
+        "ep": "12",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/12",
+        "title": "PHP Creator Rasmus Lerdorf"
+    },
+    {
+        "date": "2006-09-26",
+        "ep": "13",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/13",
+        "title": "Eben Moglen on GPL 3.0"
+    },
+    {
+        "date": "2006-10-13",
+        "ep": "14",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/14",
+        "title": "Jeremy Allison of Samba"
+    },
+    {
+        "date": "2006-11-10",
+        "ep": "15",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/15",
+        "title": "Tarus Balog of OpenNMS"
+    },
+    {
+        "date": "2007-02-21",
+        "ep": "16",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/16",
+        "title": "Jeff Waugh"
+    },
+    {
+        "date": "2007-03-24",
+        "ep": "17",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/17",
+        "title": "maddog"
+    },
+    {
+        "date": "2007-07-20",
+        "ep": "18",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/18",
+        "title": "Josh Berkus on PostgreSQL"
+    },
+    {
+        "date": "2007-09-01",
+        "ep": "19",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/19",
+        "title": "git"
+    },
+    {
+        "date": "2009-12-17",
+        "ep": "100",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/100",
+        "title": "Chris DiBona and Google"
+    },
+    {
         "date": "2010-01-01",
         "ep": "102",
         "guests": {
