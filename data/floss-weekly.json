@@ -228,6 +228,967 @@
         "title": "git"
     },
     {
+        "date": "2007-10-18",
+        "ep": "20",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/20",
+        "title": "Catalyst for Perl"
+    },
+    {
+        "date": "2007-11-23",
+        "ep": "21",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/21",
+        "title": "Avi Bryant on Seaside"
+    },
+    {
+        "date": "2007-12-21",
+        "ep": "22",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/22",
+        "title": "Fernanda Weiden"
+    },
+    {
+        "date": "2008-01-04",
+        "ep": "23",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/23",
+        "title": "The Yahoo User Interface Library"
+    },
+    {
+        "date": "2008-02-07",
+        "ep": "24",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/24",
+        "title": "POV-Ray"
+    },
+    {
+        "date": "2008-02-29",
+        "ep": "25",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/25",
+        "title": "Blender"
+    },
+    {
+        "date": "2008-03-06",
+        "ep": "26",
+        "guests": {},
+        "hosts": {
+            "leo-laporte": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/26",
+        "title": "SQLite"
+    },
+    {
+        "date": "2008-03-20",
+        "ep": "27",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/27",
+        "title": "Ward Cunningham"
+    },
+    {
+        "date": "2008-04-04",
+        "ep": "28",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/28",
+        "title": "Greg Stein for WebDAV"
+    },
+    {
+        "date": "2008-05-23",
+        "ep": "29",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/29",
+        "title": "Dan Ingalls"
+    },
+    {
+        "date": "2008-06-28",
+        "ep": "30",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/30",
+        "title": "Rocks"
+    },
+    {
+        "date": "2008-07-05",
+        "ep": "31",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/31",
+        "title": "Noble Ape"
+    },
+    {
+        "date": "2008-07-13",
+        "ep": "32",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/32",
+        "title": "SugarCRM"
+    },
+    {
+        "date": "2008-07-18",
+        "ep": "33",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/33",
+        "title": "OpenJDK"
+    },
+    {
+        "date": "2008-07-26",
+        "ep": "34",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/34",
+        "title": "Django"
+    },
+    {
+        "date": "2008-08-02",
+        "ep": "35",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/35",
+        "title": "Drizzle"
+    },
+    {
+        "date": "2008-08-19",
+        "ep": "36",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/36",
+        "title": "CouchDB"
+    },
+    {
+        "date": "2008-08-22",
+        "ep": "37",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/37",
+        "title": "Laconica"
+    },
+    {
+        "date": "2008-08-30",
+        "ep": "38",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/38",
+        "title": "Asterisk"
+    },
+    {
+        "date": "2008-09-05",
+        "ep": "39",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/39",
+        "title": "Simon Phipps"
+    },
+    {
+        "date": "2008-09-12",
+        "ep": "40",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/40",
+        "title": "Jeff Robbins on Drupal"
+    },
+    {
+        "date": "2008-09-19",
+        "ep": "41",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/41",
+        "title": "DotNetNuke"
+    },
+    {
+        "date": "2008-09-28",
+        "ep": "42",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/42",
+        "title": "Roger Dannenberg of Audacity"
+    },
+    {
+        "date": "2008-10-04",
+        "ep": "43",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/43",
+        "title": "Rockbox"
+    },
+    {
+        "date": "2008-10-10",
+        "ep": "44",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/44",
+        "title": "GNUstep"
+    },
+    {
+        "date": "2008-10-18",
+        "ep": "45",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/45",
+        "title": "KDE"
+    },
+    {
+        "date": "2008-10-24",
+        "ep": "46",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/46",
+        "title": "SCALE"
+    },
+    {
+        "date": "2008-11-21",
+        "ep": "47",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/47",
+        "title": "Mifos"
+    },
+    {
+        "date": "2008-11-29",
+        "ep": "48",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/48",
+        "title": "OpenSUSE"
+    },
+    {
+        "date": "2008-12-07",
+        "ep": "49",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/49",
+        "title": "XMPP"
+    },
+    {
+        "date": "2009-01-03",
+        "ep": "50",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/50",
+        "title": "Open MPI"
+    },
+    {
+        "date": "2009-01-10",
+        "ep": "51",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/51",
+        "title": "cURL"
+    },
+    {
+        "date": "2009-01-17",
+        "ep": "52",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/52",
+        "title": "Casey Reas and Ben Fry on Processing.org"
+    },
+    {
+        "date": "2009-01-24",
+        "ep": "53",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/53",
+        "title": "FOG"
+    },
+    {
+        "date": "2009-01-30",
+        "ep": "54",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/54",
+        "title": "Maemo"
+    },
+    {
+        "date": "2009-02-07",
+        "ep": "55",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/55",
+        "title": "jQuery"
+    },
+    {
+        "date": "2009-02-14",
+        "ep": "56",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/56",
+        "title": "\u00c9toil\u00e9"
+    },
+    {
+        "date": "2009-02-21",
+        "ep": "57",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/57",
+        "title": "XBMC"
+    },
+    {
+        "date": "2009-02-28",
+        "ep": "58",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/58",
+        "title": "ZFS"
+    },
+    {
+        "date": "2009-03-07",
+        "ep": "59",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/59",
+        "title": "TuxPaint"
+    },
+    {
+        "date": "2009-03-14",
+        "ep": "60",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/60",
+        "title": "BOINC"
+    },
+    {
+        "date": "2009-03-21",
+        "ep": "61",
+        "guests": {},
+        "hosts": {
+            "leo-laporte": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/61",
+        "title": "Arduino"
+    },
+    {
+        "date": "2009-03-28",
+        "ep": "62",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/62",
+        "title": "eBox"
+    },
+    {
+        "date": "2009-04-04",
+        "ep": "63",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/63",
+        "title": "Wubi"
+    },
+    {
+        "date": "2009-04-11",
+        "ep": "64",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/64",
+        "title": "The Open Source Bridge conference"
+    },
+    {
+        "date": "2009-04-18",
+        "ep": "65",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/65",
+        "title": "Jono Bacon"
+    },
+    {
+        "date": "2009-04-25",
+        "ep": "66",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/66",
+        "title": "OLE Nepal"
+    },
+    {
+        "date": "2009-05-02",
+        "ep": "67",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/67",
+        "title": "Xen"
+    },
+    {
+        "date": "2009-05-09",
+        "ep": "68",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/68",
+        "title": "Cinelerra and Lumiera"
+    },
+    {
+        "date": "2009-05-16",
+        "ep": "69",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/69",
+        "title": "OpenMoko"
+    },
+    {
+        "date": "2009-05-24",
+        "ep": "70",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/70",
+        "title": "Bug Labs"
+    },
+    {
+        "date": "2009-05-30",
+        "ep": "71",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/71",
+        "title": "Fedora"
+    },
+    {
+        "date": "2009-06-06",
+        "ep": "72",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/72",
+        "title": "OpenSim"
+    },
+    {
+        "date": "2009-06-13",
+        "ep": "73",
+        "guests": {},
+        "hosts": {
+            "jono-bacon": {},
+            "leo-laporte": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/73",
+        "title": "Tim O'Reilly"
+    },
+    {
+        "date": "2009-06-20",
+        "ep": "74",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/74",
+        "title": "Jeff Sheltren of the OSU Open Source Lab"
+    },
+    {
+        "date": "2009-06-27",
+        "ep": "75",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/75",
+        "title": "OpenSolaris"
+    },
+    {
+        "date": "2009-07-04",
+        "ep": "76",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/76",
+        "title": "Inkscape"
+    },
+    {
+        "date": "2009-07-12",
+        "ep": "77",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/77",
+        "title": "Jaunty Jackalope"
+    },
+    {
+        "date": "2009-07-19",
+        "ep": "78",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/78",
+        "title": "BZFlag"
+    },
+    {
+        "date": "2009-07-25",
+        "ep": "79",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/79",
+        "title": "David Heinemeier Hansson"
+    },
+    {
+        "date": "2009-08-01",
+        "ep": "80",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/80",
+        "title": "ScummVM"
+    },
+    {
+        "date": "2009-08-08",
+        "ep": "81",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/81",
+        "title": "OpenStreetMap.org"
+    },
+    {
+        "date": "2009-08-15",
+        "ep": "82",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/82",
+        "title": "IronPython"
+    },
+    {
+        "date": "2009-08-22",
+        "ep": "83",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/83",
+        "title": "Web Comics"
+    },
+    {
+        "date": "2009-08-29",
+        "ep": "84",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/84",
+        "title": "FoxyProxy"
+    },
+    {
+        "date": "2009-09-05",
+        "ep": "85",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/85",
+        "title": "LinuxCon"
+    },
+    {
+        "date": "2009-09-12",
+        "ep": "86",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/86",
+        "title": "Ardour"
+    },
+    {
+        "date": "2009-09-19",
+        "ep": "87",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/87",
+        "title": "Extreme Prgramming With Kent Beck"
+    },
+    {
+        "date": "2009-09-26",
+        "ep": "88",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/88",
+        "title": "Linus Torvalds"
+    },
+    {
+        "date": "2009-10-01",
+        "ep": "89",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/89",
+        "title": "MindTouch"
+    },
+    {
+        "date": "2009-10-08",
+        "ep": "90",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/90",
+        "title": "Dojo Toolkit"
+    },
+    {
+        "date": "2009-10-15",
+        "ep": "91",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/91",
+        "title": "Boycott Novell"
+    },
+    {
+        "date": "2009-10-24",
+        "ep": "92",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/92",
+        "title": "MakerBot"
+    },
+    {
+        "date": "2009-11-01",
+        "ep": "93",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/93",
+        "title": "Puppet"
+    },
+    {
+        "date": "2009-11-05",
+        "ep": "94",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/94",
+        "title": "Gnash"
+    },
+    {
+        "date": "2009-11-13",
+        "ep": "95",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/95",
+        "title": "The Open Rights Group"
+    },
+    {
+        "date": "2009-11-20",
+        "ep": "96",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/96",
+        "title": "BioPerl"
+    },
+    {
+        "date": "2009-12-01",
+        "ep": "97",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/97",
+        "title": "FLOSS Weekly 97: eXist-db"
+    },
+    {
+        "date": "2009-12-03",
+        "ep": "98",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/98",
+        "title": "openSUSE 11.2"
+    },
+    {
+        "date": "2009-12-10",
+        "ep": "99",
+        "guests": {},
+        "hosts": {
+            "aaron-newcomb": {},
+            "randal-schwartz": {}
+        },
+        "keywords": [],
+        "permalink": "https://twit.tv/shows/floss-weekly/episodes/99",
+        "title": "Ubuntu One"
+    },
+    {
         "date": "2009-12-17",
         "ep": "100",
         "guests": {},
