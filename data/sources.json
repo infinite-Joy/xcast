@@ -394,5 +394,11 @@
         "name": "backendy",
         "title": "A Bit More Backendy",
         "url": "http://backendy.com/"
+    },
+    {
+	"feed": "https://flawcode.com/atom.rss",
+	"name": "flawcode",
+	"title": "Flaw Code - The other side story!!",
+	"url": "https://flawcode.com"
     }
 ]
